@@ -35,6 +35,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Chinese Cyberespionage Originating From Tsinghua University Infrastructure](2018/cta-2018-0816.pdf) | Aug | Recorded Future |
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
 | [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | Oct | ESET |
+| [GREYENERGY A successor to BlackEnergy](2018/ESET_GreyEnergy.pdf) | Oct | ESET |
 
 
 ### 2017
