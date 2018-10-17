@@ -28,8 +28,13 @@ Note: If you are looking for every type of publicly available documents and note
 | [Irans Hacker Hierarchy Exposed](2018/cta-2018-0509.pdf) | May | RecordedFuture |
 | [New Bank Attacks](2018/New-Bank-Attacks-eng.pdf) | May | Positive Technologies |
 | [Bank Attacks](2018/Banks-attacks-2018-eng.pdf) | May | Positive Technologies |
+| [Full Discloser of Andariel - A Subgroup of Lazarus Threat Group](2018/Andariel_a_Subgroup_of_Lazarus.pdf) | Jun | AhnLab |
 | [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | Jul | CSE Zlab |
+| [COMMSEC: The Trails of WINDSHIFT APT](2018/D1_COMMSEC.pdf) | Aug | DarkMatter |
+| [TURLA Outlook Backdoor](2018/Eset-Turla-Outlook-Backdoor.pdf) | Aug | ESET |
+| [Chinese Cyberespionage Originating From Tsinghua University Infrastructure](2018/cta-2018-0816.pdf) | Aug | Recorded Future |
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
+| [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | Oct | ESET |
 
 
 ### 2017
