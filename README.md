@@ -36,6 +36,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
 | [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | Oct | ESET |
 | [GREYENERGY A successor to BlackEnergy](2018/ESET_GreyEnergy.pdf) | Oct | ESET |
+| [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](2018/rp-operation-oceansalt.pdf) | Oct | McAfee |
+| [Buyer beware: cyberthreats targeting e-commerce](2018/Kaspersky-Lab-e-commerce-threat-report_eng_final.pdf) | Nov | Kaspersky |
+| [Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques](2018/cta-2018-1113.pdf) | Nov | RecordedFuture |
 
 
 ### 2017
