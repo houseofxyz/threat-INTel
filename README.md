@@ -4,6 +4,19 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
+### 2019
+
+| Title | Month | Source |
+|----------------|--------|--------|
+| [Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](2019/Above+Us+Only+Stars.pdf) | Mar | C4ADS |
+| [Legit remote admin tools turn into threat actors tools](2019/CyberInt_Legit.pdf) | Apr | Cyberint |
+| [Iranian Nation-State APT Groups - "Black Box" Leak](2019/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf) | May | ClearSky | 
+| [Turla LightNeuron: An email too far](2019/ESET-LightNeuron.pdf) | May | ESET |
+| [Who's who in the Zoo Cyberespionage operation targets Android users in the Middle East](2019/ZooPark_for_public_final_edited.pdf) | May | Kaspersky | 
+| [Scattered Canary The Evolution and Inner Workings of a West African Cybercriminal Startup Turned BEC Enterprise](2019/scattered-canary.pdf) | Jun | Agari | 
+| [An APT Blueprint: Gaining New Visibility into Financial Threats](2019/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf) | Jun | BitDefender | 
+| [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) | Jun | ThaiCert |
+
 ### 2018
 
 | Title | Month | Source |
