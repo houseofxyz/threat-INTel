@@ -38,8 +38,12 @@ Note: If you are looking for every type of publicly available documents and note
 | [GREYENERGY A successor to BlackEnergy](2018/ESET_GreyEnergy.pdf) | Oct | ESET |
 | [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](2018/rp-operation-oceansalt.pdf) | Oct | McAfee |
 | [Buyer beware: cyberthreats targeting e-commerce](2018/Kaspersky-Lab-e-commerce-threat-report_eng_final.pdf) | Nov | Kaspersky |
-| [Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques](2018/cta-2018-1113.pdf) | Nov | RecordedFuture |
-
+| [The SpyRATs of OceanLotus](2018/SpyRATsofOceanLotusMalwareWhitePaper.pdf) | Oct | Cylance |
+| [Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques](2018/cta-2018-1113.pdf) | Nov | RecordedFuture | 
+| [The Hunt for 3ve](2018/3ve_google_whiteops_whitepaper_final_nov_2018.pdf) | Nov | Google |
+| [MuddyWater Operationsin Lebanon and Oman](2018/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | Nov | ClearSky |
+| [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | Dec | TrendMicro |
+| [Operation Sharpshooter](2018/rp-operation-sharpshooter.pdf) | Dec | McAfee |
 
 ### 2017
 
