@@ -16,6 +16,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Scattered Canary The Evolution and Inner Workings of a West African Cybercriminal Startup Turned BEC Enterprise](2019/scattered-canary.pdf) | Jun | Agari | 
 | [An APT Blueprint: Gaining New Visibility into Financial Threats](2019/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf) | Jun | BitDefender | 
 | [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) | Jun | ThaiCert |
+| [Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](2019/cybereason_Operation_Soft_Cell.pdf) | Jun | Cybereason |
 
 ### 2018
 
