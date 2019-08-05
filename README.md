@@ -18,6 +18,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) | Jun | ThaiCert |
 | [Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](2019/cybereason_Operation_Soft_Cell.pdf) | Jun | Cybereason |
 | [The Predator in your Pocket](2019/stalkerware-holistic.pdf) | Jun | Citizen Lab |
+| [Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](2019/cta-2019-0626.pdf) | Jun | Recorded Future |
 
 ### 2018
 
@@ -141,6 +142,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Keep Calm and (Dont) Enable Macros: A New Threat Actor Targets UAE Dissidents](2016/Keep-Calm.pdf) | May | The Citizen Lab |
 | [Operation DustySky Part 2](2016/Clearsky_Operation-DustySky2.pdf) | Jun | ClearSky |
 | [Visiting The Bear Den A Journey in the Land of Cyber-Espionage](2016/ESET-Visiting_The_Bear_Den.pdf) | Jun | ESET |
+| [Vawtrak v2](2016/sophos-vawtrak-v2-sahin-wyke.pdf) | Jun | Sophos |
 | [REDLINE DRAWN China recalculates its use of cyber espionage](2016/rpt-china-espionage.pdf) | Jun | FireEye |
 in the Middle East
 | [Pacifier APT](2016/Bitdefender_Pacifier-APT.pdf) | Jul | Bitdefender |
