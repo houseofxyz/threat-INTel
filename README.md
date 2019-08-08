@@ -19,6 +19,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](2019/cybereason_Operation_Soft_Cell.pdf) | Jun | Cybereason |
 | [The Predator in your Pocket](2019/stalkerware-holistic.pdf) | Jun | Citizen Lab |
 | [Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](2019/cta-2019-0626.pdf) | Jun | Recorded Future |
+| [Double DragonAPT41, a dual espionage andcyber crime operation](2019/apt41.pdf) | Aug | FireEye |
 
 ### 2018
 
