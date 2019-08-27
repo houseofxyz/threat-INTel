@@ -21,6 +21,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](2019/cta-2019-0626.pdf) | Jun | Recorded Future |
 | [EMOTET: A technical analysis of the destructive, polymorphic malware](2019/Bromium-Emotet-Technical-Analysis-Report.pdf) | Jul | Bromium |
 | [Double DragonAPT41, a dual espionage and cyber crime operation](2019/apt41.pdf) | Aug | FireEye |
+| [Silence 2.0 Going Global](2019/34941.pdf) | Aug | Group IB | 
 
 ### 2018
 
