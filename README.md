@@ -22,6 +22,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [EMOTET: A technical analysis of the destructive, polymorphic malware](2019/Bromium-Emotet-Technical-Analysis-Report.pdf) | Jul | Bromium |
 | [Double DragonAPT41, a dual espionage and cyber crime operation](2019/apt41.pdf) | Aug | FireEye |
 | [Silence 2.0 Going Global](2019/34941.pdf) | Aug | Group IB | 
+| [UPSynergy: Chinese-American Spy vs Spy Story](2019/research.checkpoint.com-UPSynergy.pdf) | Sep | CheckPoint |
 
 ### 2018
 
