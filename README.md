@@ -27,7 +27,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Operation Ghost The Dukes aren't back - they never left](2019/ESET_Operation_Ghost_Dukes.pdf) | Oct | ESET |
 | [Connecting the dots Exposing the arsenal and methods of the Winnti Group](2019/ESET_Winnti.pdf) | Oct | ESET |
 | [How TURBINE PANDA and China's Top Spies Enabled Beijing to Cut Corners on the C919 Passenger Jet](2019/huge-fan-of-your-work-intelligence-report.pdf) | Oct | CrowdStrike |
-| [Turla group exploits Iranian APT to expand coverage of victims](2019/Turla_advisory_UK_FINAL) | Oct | NCSC |
+| [Turla group exploits Iranian APT to expand coverage of victims](2019/Turla_advisory_UK_FINAL.pdf) | Oct | NCSC |
 
 ### 2018
 
