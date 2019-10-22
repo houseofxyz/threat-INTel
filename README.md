@@ -23,6 +23,11 @@ Note: If you are looking for every type of publicly available documents and note
 | [Double DragonAPT41, a dual espionage and cyber crime operation](2019/apt41.pdf) | Aug | FireEye |
 | [Silence 2.0 Going Global](2019/34941.pdf) | Aug | Group IB | 
 | [UPSynergy: Chinese-American Spy vs Spy Story](2019/research.checkpoint.com-UPSynergy.pdf) | Sep | CheckPoint |
+| [AT commands, TOR-based communications: Meet Attor, a fantasy creature and also a spy platform](2019/ESET_Attor.pdf) | Oct | ESET |
+| [Operation Ghost The Dukes aren't back - they never left](2019/ESET_Operation_Ghost_Dukes.pdf) | Oct | ESET |
+| [Connecting the dots Exposing the arsenal and methods of the Winnti Group](2019/ESET_Winnti.pdf) | Oct | ESET |
+| [How TURBINE PANDA and China's Top Spies Enabled Beijing to Cut Corners on the C919 Passenger Jet](2019/huge-fan-of-your-work-intelligence-report.pdf) | Oct | CrowdStrike |
+| [Turla group exploits Iranian APT to expand coverage of victims](2019/Turla_advisory_UK_FINAL) | Oct | NCSC |
 
 ### 2018
 
