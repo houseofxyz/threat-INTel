@@ -10,6 +10,7 @@ Note: If you are looking for every type of publicly available documents and note
 |----------------|--------|--------|
 | [Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](2019/Above+Us+Only+Stars.pdf) | Mar | C4ADS |
 | [Legit remote admin tools turn into threat actors tools](2019/CyberInt_Legit.pdf) | Apr | Cyberint |
+| [Pirates of Brazil: Integrating the Strengths of Russian and Chinese Hacking Communities](2019/2_5309802853261378682.pdf) | Apr | Recorded Future |
 | [Iranian Nation-State APT Groups - "Black Box" Leak](2019/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf) | May | ClearSky | 
 | [Turla LightNeuron: An email too far](2019/ESET-LightNeuron.pdf) | May | ESET |
 | [Who's who in the Zoo Cyberespionage operation targets Android users in the Middle East](2019/ZooPark_for_public_final_edited.pdf) | May | Kaspersky | 
@@ -20,6 +21,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [The Predator in your Pocket](2019/stalkerware-holistic.pdf) | Jun | Citizen Lab |
 | [Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](2019/cta-2019-0626.pdf) | Jun | Recorded Future |
 | [EMOTET: A technical analysis of the destructive, polymorphic malware](2019/Bromium-Emotet-Technical-Analysis-Report.pdf) | Jul | Bromium |
+| [Bestsellers in the Underground Economy: Measuring Malware Polularity by Forum](2019/2_5308045752075814088.pdf) | Jul | Recorded Future |
 | [Double DragonAPT41, a dual espionage and cyber crime operation](2019/apt41.pdf) | Aug | FireEye |
 | [Silence 2.0 Going Global](2019/34941.pdf) | Aug | Group IB | 
 | [UPSynergy: Chinese-American Spy vs Spy Story](2019/research.checkpoint.com-UPSynergy.pdf) | Sep | CheckPoint |
@@ -60,6 +62,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Chinese Cyberespionage Originating From Tsinghua University Infrastructure](2018/cta-2018-0816.pdf) | Aug | Recorded Future |
 | [Silence: Moving into the darkside](2018/silence_moving-into-the-darkside.pdf) | Sep | Group IB |
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
+| [Thieves and Geeks: Russian and Chinese Hacking Communities](2019/2_5308045752075814093.pdf) | Oct | Recorded Future |
 | [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | Oct | ESET |
 | [GREYENERGY A successor to BlackEnergy](2018/ESET_GreyEnergy.pdf) | Oct | ESET |
 | [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](2018/rp-operation-oceansalt.pdf) | Oct | McAfee |
