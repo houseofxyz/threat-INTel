@@ -157,7 +157,6 @@ Note: If you are looking for every type of publicly available documents and note
 | [Visiting The Bear Den A Journey in the Land of Cyber-Espionage](2016/ESET-Visiting_The_Bear_Den.pdf) | Jun | ESET |
 | [Vawtrak v2](2016/sophos-vawtrak-v2-sahin-wyke.pdf) | Jun | Sophos |
 | [REDLINE DRAWN China recalculates its use of cyber espionage](2016/rpt-china-espionage.pdf) | Jun | FireEye |
-in the Middle East
 | [Pacifier APT](2016/Bitdefender_Pacifier-APT.pdf) | Jul | Bitdefender |
 | [Unveiling Patchwork the Copy Paste APT](2016/Cymmetria_Unveiling-Patchwork.pdf) | Jul | Cymmetria |
 | [Operation Manul](2016/EFF_OperationManul.pdf) | Aug | EFF |
