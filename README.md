@@ -30,6 +30,11 @@ Note: If you are looking for every type of publicly available documents and note
 | [Connecting the dots Exposing the arsenal and methods of the Winnti Group](2019/ESET_Winnti.pdf) | Oct | ESET |
 | [How TURBINE PANDA and China's Top Spies Enabled Beijing to Cut Corners on the C919 Passenger Jet](2019/huge-fan-of-your-work-intelligence-report.pdf) | Oct | CrowdStrike |
 | [Turla group exploits Iranian APT to expand coverage of victims](2019/Turla_advisory_UK_FINAL.pdf) | Oct | NCSC |
+| [GEOST Botnet. The story of the discovery of a new Android Banking trojan from an OPSEC error](2019/VB2019-Garcia-etal.pdf) | Oct | Garcia et all |
+| [Supply Chain Attacks. Threats targeting service providers and design offices](2019/CERTFR-2019-CTI-005.pdf) | Oct | ANSSI |
+| [From tweet to rootkit](2019/winnti_EN.pdf) | Oct | ExaTrack |
+| [The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Attack in History (Sandworm)](2019/The_Untold_Story_of_the_2018_Olympics_Cyberattack_the_Most_Deceptive_Hack_in_History_102019.pdf) | Oct | Wired |
+| [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | Nov | Wired |
 
 ### 2018
 
@@ -60,6 +65,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [COMMSEC: The Trails of WINDSHIFT APT](2018/D1_COMMSEC.pdf) | Aug | DarkMatter |
 | [TURLA Outlook Backdoor](2018/Eset-Turla-Outlook-Backdoor.pdf) | Aug | ESET |
 | [Chinese Cyberespionage Originating From Tsinghua University Infrastructure](2018/cta-2018-0816.pdf) | Aug | Recorded Future |
+| [The Untold Story of NotPetya, the Most Devastating Cyberattack in History](2018/The_Untold_Story_of_NotPetya_the_Most_Devastating_Cyberattack_in_History_082018.pdf) | Aug | Wired |
 | [Silence: Moving into the darkside](2018/silence_moving-into-the-darkside.pdf) | Sep | Group IB |
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
 | [Thieves and Geeks: Russian and Chinese Hacking Communities](2019/2_5308045752075814093.pdf) | Oct | Recorded Future |
@@ -106,9 +112,10 @@ Note: If you are looking for every type of publicly available documents and note
 | [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | Jun | Dragos |
+| [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
+| [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | Jun | Wired |
 | [Behind the CARBANAK Backdoor](2017/Behind_the_CARBANAK_Backdoor.pdf) | Jun | FireEye |
 | [Bahamut Pursuing a Cyber Espionage Actor in the Middle East](2017/bellingcat.pdf) | Jun | Collin and Claudio |
-| [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
 | [FIN10 Anatomy of a Cyber Extortion Operation](2017/rpt-fin10.pdf) | Jun | FireEye |
 | [Detecting Lateral Movement through Tracking Event Logs](2017/20170612ac-ir_research_en.1.pdf) | Jun | JPCERT |
 | [Bronze Buttler](2017/SecureWorksBronzeButlerReport.pdf) | Jun | SecureWorks |
@@ -144,6 +151,17 @@ Note: If you are looking for every type of publicly available documents and note
 | [Operation Duststorm](2016/Cylance_Op_Dust_Storm_Report.pdf) | Feb | Cylance |
 | [peration Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
 | [From Seoul to Sony](2016/Bluecoat_FROM_SEOUL_TO_SONY.pdf) | Feb | Blue Coat |
+| [Prologue: Global Criminal Kingpin, Long Held in Secret U.S. Custody, Makes First Court Appearance (The Mastermind)](2016/Prologue_Global_Criminal_Kingpin_Long_Held_in_Secret_US_Custody_Makes_First_Court_Appearance_01.pdf) | Mar | Atvist |
+| [Episode 1: A journey to understand how a real-estate agent in the Philippines became the target of a criminal mastermind (The Mastermind)](2016/An_Arrogant_Way_of_Killing_02.pdf) | Mar | Atvist |
+| [Update to Episode 1: New revelations about Catherine Lee's accused killers (The Mastermind)](2016/New_revelations_about_Catherine_Lees_accused_killers_01b.pdf) | Mar | Atvist |
+| [Full text of the prosecution’s letter (The Mastermind)](2016/ep2_update_deny_bail_01b.pdf) | Mar | Atvist |
+| [Episode 2: When you doin't know who your boss really is, a dream job can turn into a nightmare (The Mastermind)](2016/Im_Your_Boss_Now_03.pdf) | Mar | Atvist |
+| [Episode 3: How dida usenet troll and encryption genius become a criminal mastermind? (The Mastermind)](2016/He_Always_Had_a_Dark_Side_04.pdf) | Mar | Atvist |
+| [Episode 4: How  the programmer became an insatiable tyrant (The Mastermind)](2016/Absolute_Fear_05.pdf) | Mar | Atvist |
+| [Episode 5: A Yatch called "I Dream" washes up in Tonga with some drugs and grisly cargo (The Mastermind)](2016/He_Got_Greedy_06.pdf) | Mar | Atvist |
+| [Episode 6: How a retired american soldier became a brutal enforcer for an international cartel (The Mastermind)](2016/Eyes_Everywhere_07.pdf) | Mar | Atvist |
+| [Episode 7: A shroud of secrecy, a legal gambit, and a mistery solved (The Mastermind)](2016/The_Next_Big_Deal_08.pdf) | Mar | Atvist |
+| [Update: Joseph Rambo Hunter, Paul Le Roux's former enforcer, sentenced to 20 years in prison (The Mastermind)](2016/Joseph_Rambo_Hunter_Paul_Le_Rouxs_Former_Enforcer_Sentenced_to_20_Years_in_Prison_09.pdf) | Mar | Atvist |
 | [The Four-Element Sword Engagement: Ongoing APT Targeting of Tibetan, Hong Kong, and Taiwanese Interests](2016/ASERT-Threat-Intelligence-Report-2016-03-The-Four-Element-Sword-Engagement.pdf) | Mar | Arbor Networks |
 | [The Four Element Sword Engagement](2016/Arbor_The-Four-Element-Sword-Engagement.pdf) | Apr | Arbor Networks |
 | [Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns](2016/Between-Hong-Kong-and-Burma.pdf) | Apr | The Citizen Lab |
