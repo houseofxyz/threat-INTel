@@ -426,7 +426,7 @@ At the end of this `README` you can find a new table with these reports sorted b
 
 ## APT Group by Name (work in progress)
 
-### Sofacy
+### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
 
 Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
 
