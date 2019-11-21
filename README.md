@@ -430,11 +430,6 @@ Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/T
 
 ### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
 
-Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
-
-
-Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe 
-
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
