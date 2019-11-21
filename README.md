@@ -11,6 +11,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](2019/Above+Us+Only+Stars.pdf) | Mar | C4ADS |
 | [Legit remote admin tools turn into threat actors tools](2019/CyberInt_Legit.pdf) | Apr | Cyberint |
 | [Pirates of Brazil: Integrating the Strengths of Russian and Chinese Hacking Communities](2019/2_5309802853261378682.pdf) | Apr | Recorded Future |
+| [London Blue](2019/london-blue-april-2019.pdf) | Apr | Agari |
 | [Iranian Nation-State APT Groups - "Black Box" Leak](2019/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf) | May | ClearSky | 
 | [Turla LightNeuron: An email too far](2019/ESET-LightNeuron.pdf) | May | ESET |
 | [Who's who in the Zoo Cyberespionage operation targets Android users in the Middle East](2019/ZooPark_for_public_final_edited.pdf) | May | Kaspersky | 
