@@ -424,11 +424,11 @@ At the end of this `README` you can find a new table with these reports sorted b
 | [Capability of the People\92s Republic of China to Conduct Cyber Warfare and Computer Network Exploitation](200x/Cyber-030-2009.pdf) | Oct | Northrop Grumman | 
 | [Russian Cyberwar on Georgia](200x/556_10535_798405_Annex87_CyberAttacks.pdf) | Nov | georgiaupdate.gov.ge |
 
-### APT Group by Name (work in progress)
+## APT Group by Name (work in progress)
 
 Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
 
-#### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe 
+### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe 
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
