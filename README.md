@@ -465,6 +465,25 @@ Other:
 - https://www.emanueledelucia.net/apt28-targeting-military-institutions/
 - https://www.emanueledelucia.net/apt28-sofacy-seduploader-under-the-christmas-tree/
 
+### Charming Kitten aka Newscaster, NewsBeef, Group 83, Parastoo, APT35, Phosphorus
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [The Kittens are back in town: Charming Kitten Campaign against Academic Researchers](2019/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf) | 2019/Sep | ClearSky |
+| [Charming Kitten](2017/Charming_Kitten_2017.pdf) | 2017/Dec | ClearSky |
+
+Other:
+
+- https://securelist.com/freezer-paper-around-free-meat/74503/
+- https://www.recordedfuture.com/iranian-cyber-operations-infrastructure/
+- https://www.cyberscoop.com/apt33-iranian-hackers-fireeye/
+- https://malpedia.caad.fkie.fraunhofer.de/actor/apt35
+- https://securelist.com/twas-the-night-before/91599/
+- https://www.kaspersky.co.uk/about/press-releases/2017_from-shamoon-to-stonedrill
+- https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
+- https://noticeofpleadings.com/phosphorus/
+
+
 #### References
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
