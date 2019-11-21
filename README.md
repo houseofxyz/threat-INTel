@@ -4,6 +4,8 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
+At the end of this `README` you can find a new table with these reports sorted by APT group name, based on the `ThaiCert` **Threat Actor Encyclopedia**. This is work in progress.
+
 ### 2019
 
 | Title | Month | Source |
@@ -109,7 +111,6 @@ Note: If you are looking for every type of publicly available documents and note
 | [Bachosens: Highly-skilled petty cyber criminal with lofty ambitions targeting large organizations](2017/Bachosens.pdf) | May | Symantec |
 | [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | May | Symantec |
 | [Operation Bachosens: A detailed look into a long-running cyber crime campaign](2017/Operation_Bachosens.pdf) | May | Symantec |
-| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.pdf) | May | ESET |
 | [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
 | [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
@@ -422,6 +423,45 @@ Note: If you are looking for every type of publicly available documents and note
 | [DECLAWING THE DRAGON: WHY THE U.S. MUST COUNTER CHINESE CYBER-WARRIORS](200x/DECLAWING-THE-DRAGON-2009.pdf) | Jun | NA |
 | [Capability of the People\92s Republic of China to Conduct Cyber Warfare and Computer Network Exploitation](200x/Cyber-030-2009.pdf) | Oct | Northrop Grumman | 
 | [Russian Cyberwar on Georgia](200x/556_10535_798405_Annex87_CyberAttacks.pdf) | Nov | georgiaupdate.gov.ge |
+
+### APT Group by Name (work in progress)
+
+Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
+
+#### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe 
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | 2018/Jul | CSE Zlab |
+| [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | 2018/Oct | ESET |
+| [APT28: A Window into Russias Cyber Espionage Operations](2017/rpt-apt28.pdf) | 2017/Jan | FireEye |
+| [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | 2017/Jan | FireEeye |
+| [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | 2017/Feb | BitDefender |
+| [Dissecting the APT28 Mac OS X Payload](2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | 2017/Feb | Bitdefender |
+| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.eset.2017.pdf) | 2017/May | ESET |
+| [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | 2017/May | Trend Micro |
+| [En Route with Sednit Part 1: Approaching the Target](2016/eset-sednit-part1.pdf) | 2016/Oct | ESET |
+| [En Route with Sednit Part 2: Observing the Comings and Goings](2016/eset-sednit-part-2.pdf) | 2016/Oct | ESET |
+| [En Route with Sednit Part 3: A Mysterious Downloader](2016/eset-sednit-part3.pdf) | 2016/Oct | ESET |
+| [Use of Fancy Bear Android Malware tracking of Ukrainian Artillery Units](2016/Crowdstrike_FancyBearTracksUkrainianArtillery.pdf) | 2016/Dec | Crowdstrike |
+| [Sofacy II Same Sofacy, Different Day](2015/cto-tib-20150420-01a.pdf) | 2015/Apr | PWC |
+| [APT28 Targets Financial Markets: Zero Day Hashes Released](2015/FSOFACY.pdf) | 2015/May | Root9b |
+| [Operation Pawn Storm Using Decoys to Evade Detection](2014/wp-operation-pawn-storm.pdf) | 2014/Oct | Trend Micro |
+| [Sofacy Phishing](2014/tactical-intelligence-bulletin---sofacy-phishing-.pdf) |  2014/Oct | PWC |
+
+Other:
+
+- https://www.carbonblack.com/2019/04/05/cb-threat-intelligence-notification-hunting-apt28-downloaders/
+- https://threatvector.cylance.com/en_us/home/inside-the-apt28-dll-backdoor-blitz.html
+- https://www.securityartwork.es/2019/04/04/ukraine-election-2019-polls-maldoc-analysis/
+- https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/
+- https://blog.trendmicro.co.jp/archives/19829
+- https://unit42.paloaltonetworks.com/sofacy-creates-new-go-variant-of-zebrocy-tool/
+- https://unit42.paloaltonetworks.com/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/
+- https://unit42.paloaltonetworks.com/dear-joohn-sofacy-groups-global-campaign/
+- https://www.welivesecurity.com/2017/05/09/sednit-adds-two-zero-day-exploits-using-trumps-attack-syria-decoy/
+- https://www.emanueledelucia.net/apt28-targeting-military-institutions/
+- https://www.emanueledelucia.net/apt28-sofacy-seduploader-under-the-christmas-tree/
 
 #### References
 
