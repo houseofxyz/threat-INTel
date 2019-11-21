@@ -28,6 +28,7 @@ At the end of this `README` you can find a new table with these reports sorted b
 | [Double DragonAPT41, a dual espionage and cyber crime operation](2019/apt41.pdf) | Aug | FireEye |
 | [Silence 2.0 Going Global](2019/34941.pdf) | Aug | Group IB | 
 | [UPSynergy: Chinese-American Spy vs Spy Story](2019/research.checkpoint.com-UPSynergy.pdf) | Sep | CheckPoint |
+| [The Kittens are back in town: Charming Kitten Campaign against Academic Researchers](2019/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf) | Sep | ClearSky |
 | [AT commands, TOR-based communications: Meet Attor, a fantasy creature and also a spy platform](2019/ESET_Attor.pdf) | Oct | ESET |
 | [Operation Ghost The Dukes aren't back - they never left](2019/ESET_Operation_Ghost_Dukes.pdf) | Oct | ESET |
 | [Connecting the dots Exposing the arsenal and methods of the Winnti Group](2019/ESET_Winnti.pdf) | Oct | ESET |
