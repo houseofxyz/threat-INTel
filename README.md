@@ -426,6 +426,8 @@ At the end of this `README` you can find a new table with these reports sorted b
 
 ## APT Group by Name (work in progress)
 
+### Sofacy
+
 Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
 
 
