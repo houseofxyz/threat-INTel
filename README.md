@@ -65,7 +65,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [COMMSEC: The Trails of WINDSHIFT APT](2018/D1_COMMSEC.pdf) | Aug | DarkMatter |
 | [TURLA Outlook Backdoor](2018/Eset-Turla-Outlook-Backdoor.pdf) | Aug | ESET |
 | [Chinese Cyberespionage Originating From Tsinghua University Infrastructure](2018/cta-2018-0816.pdf) | Aug | Recorded Future |
-| [The Untold Story of NotPetya, the Most Devastating Cyberattack in History](2018/The_Untold_Story_of_NotPetya_the_Most_Devastating_Cyberattack_in_History_082018.pdf) | Aug | Wired |
+| [The Untold Story of NotPetya, the Most Devastating Cyberattack in History (Sandworm)](2018/The_Untold_Story_of_NotPetya_the_Most_Devastating_Cyberattack_in_History_082018.pdf) | Aug | Wired |
 | [Silence: Moving into the darkside](2018/silence_moving-into-the-darkside.pdf) | Sep | Group IB |
 | [APT38: Un-usual Suspects](2018/rpt-apt38-2018-web_v5.pdf) | Oct | FireEye |
 | [Thieves and Geeks: Russian and Chinese Hacking Communities](2019/2_5308045752075814093.pdf) | Oct | Recorded Future |
@@ -77,6 +77,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Chinese Threat Actor TEMP.Periscope Targets UK-Based Engineering Company Using Russian APT Techniques](2018/cta-2018-1113.pdf) | Nov | RecordedFuture | 
 | [The Hunt for 3ve](2018/3ve_google_whiteops_whitepaper_final_nov_2018.pdf) | Nov | Google |
 | [MuddyWater Operationsin Lebanon and Oman](2018/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | Nov | ClearSky |
+| [Operation Shaheen](2018/WhiteCompanyOperationShaheenReport.pdf) | Nov | Cylance |
 | [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | Dec | TrendMicro |
 | [Operation Sharpshooter](2018/rp-operation-sharpshooter.pdf) | Dec | McAfee |
 
