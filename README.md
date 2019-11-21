@@ -430,6 +430,8 @@ Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/T
 
 Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe 
 
+## Sofacy
+
 | Title | Year/Month | Source |
 |----------------|--------|--------|
 | [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | 2018/Jul | CSE Zlab |
