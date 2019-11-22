@@ -155,7 +155,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [Operation Dusty Sky](2016/Clearsky_Operation-DustySky_TLP_WHITE.pdf) | Jan | ClearSky |
 | [Know Your Enemies 2.0: A Primer on Advanced Persistent Threat Groups](2016/ICIT-Brief-Know-Your-Enemies-2.0.pdf) | Feb | ICIT |
 | [Operation Duststorm](2016/Cylance_Op_Dust_Storm_Report.pdf) | Feb | Cylance |
-| [peration Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
+| [Operation Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
 | [From Seoul to Sony](2016/Bluecoat_FROM_SEOUL_TO_SONY.pdf) | Feb | Blue Coat |
 | [Prologue: Global Criminal Kingpin, Long Held in Secret U.S. Custody, Makes First Court Appearance (The Mastermind)](2016/Prologue_Global_Criminal_Kingpin_Long_Held_in_Secret_US_Custody_Makes_First_Court_Appearance_01.pdf) | Mar | Atvist |
 | [Episode 1: A journey to understand how a real-estate agent in the Philippines became the target of a criminal mastermind (The Mastermind)](2016/An_Arrogant_Way_of_Killing_02.pdf) | Mar | Atvist |
