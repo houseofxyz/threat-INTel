@@ -1,9 +1,9 @@
-## APT Group by Name (work in progress)
+# APT Group by Name (work in progress)
 
 Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert and the Group pages of the MITRE ATT&CK team.
 
-### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
-
+## [APT28](https://attack.mitre.org/groups/G0007/) 
+### aka Sofacy, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
