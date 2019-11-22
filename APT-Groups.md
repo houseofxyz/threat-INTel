@@ -100,4 +100,5 @@ Other:
 * [Mitre Attack Wiki Groups](https://attack.mitre.org/wiki/Groups)
 * [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf)
 * [APT CyberCriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+* [APT Report Collection](https://github.com/blackorbird/APT_REPORT)
 
