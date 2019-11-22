@@ -2,7 +2,7 @@
 
 Archive of publicly available threat/cybercrime INTel reports (mostly APT Reports but not limited to). Useful as a reference when you emulate threat actors on a daily basis. Please create an issue if I'm missing a relevant Report.
 
-Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
+Warning: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
 **Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
