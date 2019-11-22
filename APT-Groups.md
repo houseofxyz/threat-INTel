@@ -109,6 +109,7 @@ Other:
 
 Other:
 
+- https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/
 - https://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov
 - https://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war
 - https://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise
