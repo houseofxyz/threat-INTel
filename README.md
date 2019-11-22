@@ -132,7 +132,7 @@ At the end of this `README` you can find a new table with these reports sorted b
 | [Operation Wilted Tulip](2017/Operation_Wilted_Tulip.pdf) | Jul | ClearSky & Trend Micro |
 | [OilRig Deploys ALMA Communicator - DNS TunnelingTrojan](2017/PaloAlto_OilRig-Deploys-ALMA-DNS-Tunneling-Trojan.pdf) | Aug | Palo Alto |
 | [Intelligence Games in the Power Grid](2017/intelligence-games-in-the-power-grid-2016.pdf) | Sep | Treadstone 71 |
-| [APT3 Adversary Emulation Plab](2017/APT3_Adversary_Emulation_Plan.pdf) | Sep | MITRE |
+| [APT3 Adversary Emulation Plan](2017/APT3_Adversary_Emulation_Plan.pdf) | Sep | MITRE |
 | [Hack ATM with an anti-hacking feature and walk away with $1M in 2 minutes](2017/Hack-ATM-with-an-anti-hacking-feature-and-walk-away-with-1M-in-2-minutes.pdf) | Oct | Embedi |
 | [Remote Control Interloper: Analyzing New Chinese htpRAT Malware Attacks Against ASEAN](2017/RiskIQ-htpRAT-Malware-Attacks.pdf) | Oct | RISKIQ |
 | [Investigation: WannaCry cyber attack and the NHS](2017/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf) | Oct | National Audit Office |
@@ -488,7 +488,7 @@ Other:
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
-| [APT3 Adversary Emulation Plab](2017/APT3_Adversary_Emulation_Plan.pdf) | 2017/Sep | MITRE |
+| [APT3 Adversary Emulation Plan](2017/APT3_Adversary_Emulation_Plan.pdf) | 2017/Sep | MITRE |
 
 Other:
 
