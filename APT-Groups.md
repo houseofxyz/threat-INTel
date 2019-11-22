@@ -94,7 +94,7 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
-#### References
+## References
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 * [Mitre Attack Wiki Groups](https://attack.mitre.org/wiki/Groups)
