@@ -4,7 +4,7 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
-At the end of this `README` you can find a new table with these reports sorted by APT group name, based on the `ThaiCert` **Threat Actor Encyclopedia**. This is work in progress.
+At the end of this `README` you can find a new table with these reports sorted by APT group name, based on the `ThaiCert` **Threat Actor Encyclopedia** and the Group pages of the MITRE ATT&CK team. This is work in progress.
 
 ### 2019
 
@@ -132,6 +132,7 @@ At the end of this `README` you can find a new table with these reports sorted b
 | [Operation Wilted Tulip](2017/Operation_Wilted_Tulip.pdf) | Jul | ClearSky & Trend Micro |
 | [OilRig Deploys ALMA Communicator - DNS TunnelingTrojan](2017/PaloAlto_OilRig-Deploys-ALMA-DNS-Tunneling-Trojan.pdf) | Aug | Palo Alto |
 | [Intelligence Games in the Power Grid](2017/intelligence-games-in-the-power-grid-2016.pdf) | Sep | Treadstone 71 |
+| [APT3 Adversary Emulation Plab](2017/APT3_Adversary_Emulation_Plan.pdf) | Sep | MITRE |
 | [Hack ATM with an anti-hacking feature and walk away with $1M in 2 minutes](2017/Hack-ATM-with-an-anti-hacking-feature-and-walk-away-with-1M-in-2-minutes.pdf) | Oct | Embedi |
 | [Remote Control Interloper: Analyzing New Chinese htpRAT Malware Attacks Against ASEAN](2017/RiskIQ-htpRAT-Malware-Attacks.pdf) | Oct | RISKIQ |
 | [Investigation: WannaCry cyber attack and the NHS](2017/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf) | Oct | National Audit Office |
@@ -427,7 +428,7 @@ At the end of this `README` you can find a new table with these reports sorted b
 
 ## APT Group by Name (work in progress)
 
-Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert.
+Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert and the Group pages of the MITRE ATT&CK team.
 
 ### Sofacy aka APT28, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
 
@@ -483,6 +484,22 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
+### APT3 aka Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, Group 6
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [APT3 Adversary Emulation Plab](2017/APT3_Adversary_Emulation_Plan.pdf) | 2017/Sep | MITRE |
+
+Other:
+
+- https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit
+- https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html
+- https://www.recordedfuture.com/chinese-mss-behind-apt3/
+- https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html
+- https://www.symantec.com/connect/blogs/buckeye-cyberespionage-group-shifts-gaze-us-hong-kong
+- https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-evolution_of_pirpi.pdf
+- https://www.fireeye.com/blog/threat-research/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html
+- https://www.fireeye.com/blog/threat-research/2014/06/clandestine-fox-part-deux.html
 
 #### References
 
