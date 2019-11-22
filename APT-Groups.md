@@ -90,3 +90,12 @@ Other:
 - https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-evolution_of_pirpi.pdf
 - https://www.fireeye.com/blog/threat-research/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html
 - https://www.fireeye.com/blog/threat-research/2014/06/clandestine-fox-part-deux.html
+
+
+#### References
+
+* [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
+* [Mitre Attack Wiki Groups](https://attack.mitre.org/wiki/Groups)
+* [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf)
+* [APT CyberCriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+

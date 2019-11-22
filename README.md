@@ -4,7 +4,7 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
-Note: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
+**Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
 ### 2019
 
@@ -430,4 +430,5 @@ Note: You can also find a [page](APT-Groups.md) with an attempt to sort these re
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 * [Mitre Attack Wiki Groups](https://attack.mitre.org/wiki/Groups)
+* [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf)
 * [APT CyberCriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
