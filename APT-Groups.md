@@ -94,6 +94,44 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
+## [Lazarus](https://attack.mitre.org/groups/G0032)
+### aka Hidden Cobra, Guardians of Peace, Zinc, Nickel Academy, Labyrinth Chollima, Group 77, Hastai Group, Whois Hacking Team, NewRomanic Cyber Army Team, APT-C-26
+
+| Title | Year | Month | Source |
+|----------------|--------|--------|--------|
+| [Full Discloser of Andariel - A Subgroup of Lazarus Threat Group](2018/Andariel_a_Subgroup_of_Lazarus.pdf) | 2018 | Jun | AhnLab |
+| [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
+| [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | May | Symantec |
+| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
+| [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
+| [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | Dec | Proofpoint |
+| [Operation Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
+
+Other:
+
+- https://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov
+- https://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war
+- https://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise
+- https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know
+- https://unit42.paloaltonetworks.com/tdrop2-attacks-suggest-dark-seoul-attackers-return/
+- https://unit42.paloaltonetworks.com/unit42-the-blockbuster-sequel/
+- https://unit42.paloaltonetworks.com/unit42-blockbuster-saga-continues/
+- https://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/
+- https://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/
+- https://securelist.com/operation-applejeus/87553/
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/
+- https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
+- https://cyware.com/news/lazarus-hacking-group-expand-their-attack-horizon-by-targeting-an-israeli-defense-company-02e2ec77
+- https://www.us-cert.gov/ncas/analysis-reports/AR19-129A
+- https://blogs.microsoft.com/on-the-issues/2017/12/19/microsoft-facebook-disrupt-zinc-malware-attack-protect-customers-internet-ongoing-cyberthreats/
+- https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
+- https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity
+- https://medium.com/threat-intel/lazarus-attacks-wannacry-5fdeddee476c
+- https://securingtomorrow.mcafee.com/mcafee-labs/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families/
+
 ## References
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
