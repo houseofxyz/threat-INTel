@@ -484,6 +484,24 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
+### APT1 aka Comment Crew, Comment Group, Comment Panda, TG-8223, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shangai Group, GIF89a
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](2018/rp-operation-oceansalt.pdf) | 2018/Oct | McAfee |
+| [Putter Panda](2014/putter-panda.pdf) | 2014/Jun | Crowdstrike |
+| [Apt1 Exposing One Of China's Cyber Espionage Units](2013/Mandiant_APT1_Report.pdf) | 2013/Feb | Mandiant |
+| [APT1s GLASSES: Watching a Human Rights Organization](2013/APT1s-GLASSES-Watching-a-Human-Rights-Organization_websitepdf.pdf) | 2013/Feb | The Citizen Lab |
+| [Apt1: Technical Backstage](2013/RAP002_APT1_Technical_backstage.1.0.pdf) | 2013/Mar | itrust |
+
+Other:
+
+- https://www.fireeye.com/blog/threat-research/2014/05/the-pla-and-the-800am-500pm-work-day-fireeye-confirms-dojs-findings-on-apt1-intrusion-activity.html 
+- https://krebsonsecurity.com/2014/07/hackers-plundered-israeli-defense-firms-that-built-iron-dome-missile-defense-system/
+- https://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/
+- https://www.fireeye.com/blog/threat-research/2014/03/a-detailed-examination-of-the-siesta-campaign.html
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-oceansalt-delivers-wave-after-wave/
+
 ### APT3 aka Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, Group 6
 
 | Title | Year/Month | Source |
