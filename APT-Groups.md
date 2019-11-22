@@ -38,7 +38,8 @@ Other:
 - https://www.emanueledelucia.net/apt28-targeting-military-institutions/
 - https://www.emanueledelucia.net/apt28-sofacy-seduploader-under-the-christmas-tree/
 
-### Charming Kitten aka Newscaster, NewsBeef, Group 83, Parastoo, APT35, Phosphorus
+## [Charming Kitten](https://attack.mitre.org/groups/G0058)
+### aka Newscaster, NewsBeef, Group 83, Parastoo, APT35, Phosphorus
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
@@ -56,7 +57,8 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
-### APT1 aka Comment Crew, Comment Group, Comment Panda, TG-8223, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shangai Group, GIF89a
+## [APT1](https://attack.mitre.org/groups/G0006)
+### aka Comment Crew, Comment Group, Comment Panda, TG-8223, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shangai Group, GIF89a
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
@@ -74,7 +76,8 @@ Other:
 - https://www.fireeye.com/blog/threat-research/2014/03/a-detailed-examination-of-the-siesta-campaign.html
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-oceansalt-delivers-wave-after-wave/
 
-### APT3 aka Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, Group 6
+## [APT3](https://attack.mitre.org/groups/G0022)
+### aka Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, Group 6
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
