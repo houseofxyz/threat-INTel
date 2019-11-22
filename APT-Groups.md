@@ -100,12 +100,12 @@ Other:
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
 | [Full Discloser of Andariel - A Subgroup of Lazarus Threat Group](2018/Andariel_a_Subgroup_of_Lazarus.pdf) | 2018 | Jun | AhnLab |
-| [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
-| [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | May | Symantec |
-| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
-| [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
-| [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | Dec | Proofpoint |
-| [Operation Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
+| [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | 2017 | Apr | Kaspersky |
+| [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | 2017 | May | Symantec |
+| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | 2017 | May | Group IB |
+| [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | 2017 | May | Group IB |
+| [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | 2017 | Dec | Proofpoint |
+| [Operation Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | 2016 | Feb | Novetta |
 
 Other:
 
