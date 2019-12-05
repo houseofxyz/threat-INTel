@@ -115,7 +115,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | May | Symantec |
 | [Operation Bachosens: A detailed look into a long-running cyber crime campaign](2017/Operation_Bachosens.pdf) | May | Symantec |
 | [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
-| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
+| [Lazarus Arisen - Architecture / Tools /Attribution](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | Jun | Dragos |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
@@ -146,7 +146,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [TRISIS Malware Analysis of Safety System Targeted Malware](2017/TRISIS-01.pdf) | Dec | Dragos |
 | [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | Dec | Proofpoint |
 | [Attackers Deploy New ICS Attack Framework TRITON and Cause Operational Disruption to Critical Infrastructure](2017/Fireeye_ICS-Attack-Framework-TRITON.pdf) | Dec | FireEye |
-
+| [MoneyTaker 1.5 Years of Silent Operations](2017/Group-IB_MoneyTaker.pdf) | Dec | Group IB |
 
 ### 2016
 
@@ -199,6 +199,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [Rootkit analysis Use case on HideDRV](2016/Rootkit-analysis-Use-case-on-HIDEDRV-v1.6.pdf) | Oct | Sekoia |
 | [Wave your false flags! Deception tactics muddying attribution in targeted attacks](2016/Kaspersky_Wave-your-false-flags.pdf) | Oct | Kaspersky |
 | [When The Lights Went Out: Ukraine Cybersecurity Threat Briefing](2016/BoozAllen_ukraine-report-when-the-lights-went-out.pdf) | Nov | BAH |
+| [Cobalt Logical Attacks on ATMs](2016/Group-IB_Cobalt.pdf) | Nov | Group IB |
 | [PROMETHIUM and NEODYMIUM: Parallel zero-day attacks targeting individuals in Europe](2016/Microsoft_SIR-Vol21-PROMETHIUM-NEODYMIUM-Updated.pdf) | Dec | Microsoft |
 | [Use of Fancy Bear Android Malware tracking of Ukrainian Artillery Units](2016/Crowdstrike_FancyBearTracksUkrainianArtillery.pdf) | Dec | Crowdstrike |
 | [GRIZZLY STEPPE - Russian Malicious Cyber Activity](2016/USCERT_GRIZZLY_STEPPE.pdf) | Dec | FBI |
