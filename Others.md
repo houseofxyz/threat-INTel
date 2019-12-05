@@ -25,6 +25,10 @@ Others:
 | [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | 2018/Dec | TrendMicro |
 | [Equation Group: Questions And Answers](2015/Equation_group_questions_and_answers.pdf) | 2015/Feb | Kaspersky |
 
+Others:
+
+- TBD
+
 ### The Mastermind
 
 | Title | Year/Month | Source |
