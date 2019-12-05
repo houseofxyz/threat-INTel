@@ -10,6 +10,13 @@
 | [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | 2017/Jun | Wired |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | 2017/Jun | Dragos |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | 2017/Jun | ESET |
+| [BLACKENERGY & QUEDAGH The convergence of crimeware and APT attacks](2014/blackenergy_whitepaper.pdf) | Oct | F-Secure |
+
+Others:
+
+- https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html
+- https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/
+- https://www.crowdstrike.com/blog/when-worlds-collide-the-impact-of-cyber-threats-crossing-over-to-the-physical-world/
 
 ### EQGRP vs Shadow Brokers
 
