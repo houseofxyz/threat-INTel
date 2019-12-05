@@ -109,6 +109,8 @@ Other:
 
 Other:
 
+- https://objective-see.com/blog/blog_0x49.html
+- https://objective-see.com/blog/blog_0x51.html
 - https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/
 - https://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov
 - https://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war
