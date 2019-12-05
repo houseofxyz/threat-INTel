@@ -10,6 +10,7 @@ Warning: If you are looking for every type of publicly available documents and n
 
 | Title | Month | Source |
 |----------------|--------|--------|
+| [New Destructive Wiper "ZeroCleare" Targets Energy Sector in the Middle East](2019/ZeroCleare.pdf) | Feb | IBM |
 | [Above Us Only Stars: Exposing GPS Spoofing in Russia and Syria](2019/Above+Us+Only+Stars.pdf) | Mar | C4ADS |
 | [Legit remote admin tools turn into threat actors tools](2019/CyberInt_Legit.pdf) | Apr | Cyberint |
 | [Pirates of Brazil: Integrating the Strengths of Russian and Chinese Hacking Communities](2019/2_5309802853261378682.pdf) | Apr | Recorded Future |
