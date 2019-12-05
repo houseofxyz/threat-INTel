@@ -75,6 +75,27 @@ Other:
 - https://www.emanueledelucia.net/apt28-targeting-military-institutions/
 - https://www.emanueledelucia.net/apt28-sofacy-seduploader-under-the-christmas-tree/
 
+## [APT29](https://attack.mitre.org/groups/G0016/)
+### aka Group 100, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, Iron Hemlock, Minidionis, CloudLook, Grizzly Steppe	 
+
+| Title | Year | Month | Source |
+|----------------|--------|--------|--------|
+| [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | 2017/Feb | US-CERT |
+| [GRIZZLY STEPPE - Russian Malicious Cyber Activity](2016/USCERT_GRIZZLY_STEPPE.pdf) | 2016/Dec | FBI |
+| [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](2015/rpt-apt29-hammertoss.pdf) | 2015/Jul | FireEye |
+| [The Dukes: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Dec | F-Secure |
+
+Other:
+
+- https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+- https://www.slideshare.net/MatthewDunwoody1/no-easy-breach-derby-con-2016
+- https://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory
+- https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html 
+- https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
+- https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
+- https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html
+- https://www.microsoft.com/security/blog/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/
+
 ## [Charming Kitten](https://attack.mitre.org/groups/G0058)
 ### aka Newscaster, NewsBeef, Group 83, Parastoo, APT35, Phosphorus
 

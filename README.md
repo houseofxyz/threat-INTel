@@ -258,6 +258,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [CopyKittens Attack Group](2015/Minerva_Clearsky_CopyKittens11-23-15.pdf) | Nov | ClearSky |
 | [ROCKET KITTEN: A Campaign with 9 lives](2015/rocket-kitten-report.pdf) | Nov | Check Point |
 | [Operation Iron Tiger: Exploring Chinese Cyber-Espionage Attacks on United States Defense Contractors](2015/2015_12_wp_operation_iron_tiger.pdf) | Dec | Trend Micro |
+| [The Dukes: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Dec | F-Secure |
 
 ### 2014
 
