@@ -80,10 +80,10 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | 2017/Feb | US-CERT |
-| [GRIZZLY STEPPE - Russian Malicious Cyber Activity](2016/USCERT_GRIZZLY_STEPPE.pdf) | 2016/Dec | FBI |
-| [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](2015/rpt-apt29-hammertoss.pdf) | 2015/Jul | FireEye |
-| [The Dukes: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Dec | F-Secure |
+| [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | 2017 | Feb | US-CERT |
+| [GRIZZLY STEPPE - Russian Malicious Cyber Activity](2016/USCERT_GRIZZLY_STEPPE.pdf) | 2016 | Dec | FBI |
+| [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](2015/rpt-apt29-hammertoss.pdf) | 2015 | Jul | FireEye |
+| [The Dukes: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | 2015 | Dec | F-Secure |
 
 Other:
 
