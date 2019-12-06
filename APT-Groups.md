@@ -125,7 +125,8 @@ Other:
 | [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
 | [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
 
-![](imgs/FIN7.png){:height="400px" width="400px"}
+![](imgs/FIN7.png)
+<img src="imgs/FIN7" width="70">
 
 Others:
 - https://www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html
