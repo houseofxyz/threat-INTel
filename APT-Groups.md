@@ -115,6 +115,32 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
+## FIN7
+### Sometimes referred to as Carbanak Group, but these appear to be two groups using the same Carbanak malware
+
+| Title | Year | Month | Source |
+|----------------|--------|--------|--------|
+| [Behind the CARBANAK Backdoor](2017/Behind_the_CARBANAK_Backdoor.pdf) | 2017 | Jun | FireEye |
+| [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | 2017 | Nov | RSA |
+| [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
+| [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
+
+![](imgs/FIN7.png)
+
+Others:
+- https://www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html
+- https://www.fireeye.com/blog/threat-research/2017/04/fin7-phishing-lnk.html
+- https://www.fireeye.com/blog/threat-research/2017/06/behind-the-carbanak-backdoor.html
+- https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html
+- https://www.justice.gov/opa/press-release/file/1084361/download
+- http://blog.morphisec.com/fin7-attacks-restaurant-industry
+- https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html
+- https://www.cyberscoop.com/fin7-dde-morphisec-fileless-malware/
+- https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/
+- https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html
+- https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html
+- https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+
 ## [Lazarus](https://attack.mitre.org/groups/G0032)
 ### aka Hidden Cobra, Guardians of Peace, Zinc, Nickel Academy, Labyrinth Chollima, Group 77, Hastai Group, Whois Hacking Team, NewRomanic Cyber Army Team, APT-C-26
 
