@@ -115,7 +115,7 @@ Other:
 - https://www.fireeye.com/blog/technical/malware-research/2014/05/operation-saffron-rose.html
 - https://noticeofpleadings.com/phosphorus/
 
-## FIN7
+## [FIN7](https://attack.mitre.org/groups/G0046/) and [Carbanak](https://attack.mitre.org/groups/G0008/)
 ### Sometimes referred to as Carbanak Group, but these appear to be two groups using the same Carbanak malware
 
 | Title | Year | Month | Source |
@@ -124,6 +124,7 @@ Other:
 | [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | 2017 | Nov | RSA |
 | [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
 | [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
+| [Anunak: Apt Against Financial Institutions](2014/Anunak_APT_against_financial_institutions.pdf) | Dec | FoxIT |
 
 <img src="imgs/FIN7.png" width="80%">
 
@@ -140,6 +141,15 @@ Others:
 - https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html
 - https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html
 - https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+- https://blogs.forcepoint.com/security-labs/carbanak-group-uses-google-malware-command-and-control
+- https://www.fox-it.com/en/about-fox-it/corporate/news/anunak-aka-carbanak-update/
+- https://www.crowdstrike.com/blog/state-criminal-address/
+- https://en.wikipedia.org/wiki/Carbanak
+- https://threatpost.com/alleged-mastermind-behind-carbanak-crime-gang-arrested/130831/
+- https://www.wired.co.uk/article/carbanak-gang-malware-arrest-cybercrime-bank-robbery-statistics
+- https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain
+- https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100
+- https://www.bleepingcomputer.com/news/security/us-charges-three-members-of-fin7-carbanak-hacker-group/
 
 ## [Lazarus](https://attack.mitre.org/groups/G0032)
 ### aka Hidden Cobra, Guardians of Peace, Zinc, Nickel Academy, Labyrinth Chollima, Group 77, Hastai Group, Whois Hacking Team, NewRomanic Cyber Army Team, APT-C-26
