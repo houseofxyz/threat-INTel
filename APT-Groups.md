@@ -124,7 +124,7 @@ Other:
 | [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | 2017 | Nov | RSA |
 | [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
 | [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
-| [Anunak: Apt Against Financial Institutions](2014/Anunak_APT_against_financial_institutions.pdf) | Dec | FoxIT |
+| [Anunak: Apt Against Financial Institutions](2014/Anunak_APT_against_financial_institutions.pdf) | 2014 | Dec | FoxIT |
 
 <img src="imgs/FIN7.png" width="80%">
 
