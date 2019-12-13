@@ -47,10 +47,17 @@ Others:
 
 Source: https://magazine.atavist.com/the-mastermind
 
+### TrickBot
+
+Others:
+
+- https://www.fastcompany.com/90417865/new-botnet-nabbed-victims-by-sending-30000-sextortion-emails-per-hour
+- https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware
+
 ### Trends
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
 | [Hi-Tech Crime Trends 2019/2020](2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
-
+| [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
