@@ -54,8 +54,6 @@ Others:
 - https://www.fastcompany.com/90417865/new-botnet-nabbed-victims-by-sending-30000-sextortion-emails-per-hour
 - https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware
 
-### State sponsored
-
 ### State sponsored
 
 - https://blog.google/technology/safety-security/update-state-sponsored-activity/
