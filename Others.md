@@ -54,6 +54,11 @@ Others:
 - https://www.fastcompany.com/90417865/new-botnet-nabbed-victims-by-sending-30000-sextortion-emails-per-hour
 - https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware
 
+### State sponsored
+
+- https://blog.google/technology/safety-security/update-state-sponsored-activity/
+- https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
+
 ### Trends
 
 | Title | Year/Month | Source |
@@ -61,3 +66,4 @@ Others:
 | [Hi-Tech Crime Trends 2019/2020](2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
 | [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
+
