@@ -42,6 +42,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Attack in History (Sandworm)](2019/The_Untold_Story_of_the_2018_Olympics_Cyberattack_the_Most_Deceptive_Hack_in_History_102019.pdf) | Oct | Wired |
 | [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | Nov | Wired |
 | [Operation Wocao Shining a light on one of China’s hidden hacking groups](2019/201912_Report_Operation_Wocao.pdf) | Dec | FoxIT |
+| [Operation Gamework: Infrastructure Overlaps Found Between BlueAlpha and Iranian APTs](2019/cta-2019-1212.pdf) | Dec | RecordedFuture |
 
 ### 2018
 
