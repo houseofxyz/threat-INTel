@@ -43,6 +43,7 @@ Warning: If you are looking for every type of publicly available documents and n
 | [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | Nov | Wired |
 | [Operation Wocao Shining a light on one of China’s hidden hacking groups](2019/201912_Report_Operation_Wocao.pdf) | Dec | FoxIT |
 | [Operation Gamework: Infrastructure Overlaps Found Between BlueAlpha and Iranian APTs](2019/cta-2019-1212.pdf) | Dec | RecordedFuture |
+| [Drilling DeepA Look at Cyberattacks on the  Oil and Gas Industry](2019/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | Dec | TrendMicro |
 
 ### 2018
 
