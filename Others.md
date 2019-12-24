@@ -10,7 +10,7 @@
 | [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | 2017/Jun | Wired |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | 2017/Jun | Dragos |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | 2017/Jun | ESET |
-| [BLACKENERGY & QUEDAGH The convergence of crimeware and APT attacks](2014/blackenergy_whitepaper.pdf) | Oct | F-Secure |
+| [BLACKENERGY & QUEDAGH The convergence of crimeware and APT attacks](2014/blackenergy_whitepaper.pdf) | 2014/Oct | F-Secure |
 
 Others:
 
