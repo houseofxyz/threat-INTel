@@ -17,6 +17,10 @@ Others:
 - https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html
 - https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/
 - https://www.crowdstrike.com/blog/when-worlds-collide-the-impact-of-cyber-threats-crossing-over-to-the-physical-world/
+- https://longform.org/posts/longform-podcast-372-andy-greenberg
+- https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war
+- https://www.nybooks.com/articles/2019/12/19/drums-of-cyberwar/
+- https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/
 
 ### EQGRP vs Shadow Brokers
 
