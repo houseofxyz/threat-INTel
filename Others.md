@@ -1,5 +1,23 @@
 ## Others
 
+### Stuxnet/Duqu/Flame(r)
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Duqu 2.0: A Comparison To Duqu](2015/duqu2_crysys.pdf) | 2015/Jun | CrySyS Lab |
+| [The Duqu 2.0 Technical Details](2015/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) | 2015/Jun | Kaspersky |
+| [Stuxnet 0.5: The Missing Link](2013/stuxnet_0_5_the_missing_link.pdf) | 2013/Feb | Symantec |
+| [The Miniduke Mystery: Pdf 0-Day Government Spy Assembler 0X29A Micro Backdoor](2013/themysteryofthepdf0-dayassemblermicrobackdoor.pdf) | 2013/Feb | Kaspersky |
+| [Miniduke: Indicators](2013/miniduke_indicators_public.pdf) | 2013/Feb | CrySyS Lab |
+| [Skywiper (A.K.A. Flame A.K.A. Flamer): A Complex Malware For Targeted Attacks](2012/skywiper.pdf) | 2012/Mar | CrySyS Lab |
+| [Have I Got Newsforyou: Analysis Of Flamer C&C Server](2012/w32_flamer_newsforyou.pdf) | 2012/May | Symantec |
+| [W32.Stuxnet Dossier](2011/w32_stuxnet_dossier.pdf) | 2011/Feb | Symantec |
+| [Stuxnet Under the Microscope](2011/Stuxnet_Under_the_Microscope.pdf) | 2011/Apr | ESET |
+
+Others:
+
+- TBD 
+
 ### Sandworm
 
 | Title | Year/Month | Source |
@@ -17,10 +35,11 @@ Others:
 - https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html
 - https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/
 - https://www.crowdstrike.com/blog/when-worlds-collide-the-impact-of-cyber-threats-crossing-over-to-the-physical-world/
-- https://longform.org/posts/longform-podcast-372-andy-greenberg
+- https://longform.org/posts/longform-podcast-372-andy-greenberg ([mirrored](media/Andy_Greenberg_Full_Episode_Edit_1.mp3))
 - https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war
 - https://www.nybooks.com/articles/2019/12/19/drums-of-cyberwar/
 - https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/
+- https://darknetdiaries.com/episode/54/ ([mirrored](media/ADV7741006833.mp3))
 
 ### EQGRP vs Shadow Brokers
 
@@ -31,7 +50,7 @@ Others:
 
 Others:
 
-- TBD
+- PRIVATE 
 
 ### The Mastermind
 
