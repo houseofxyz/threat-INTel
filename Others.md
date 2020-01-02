@@ -39,6 +39,7 @@ Others:
 - https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war
 - https://www.nybooks.com/articles/2019/12/19/drums-of-cyberwar/
 - https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/
+- https://www.wired.com/story/sandworm-android-malware/
 - https://darknetdiaries.com/episode/54/ ([mirrored](media/ADV7741006833.mp3))
 
 ### EQGRP vs Shadow Brokers
