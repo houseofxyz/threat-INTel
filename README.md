@@ -6,6 +6,12 @@ Warning: If you are looking for every type of publicly available documents and n
 
 **Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
+### 2020
+
+| Title | Month | Source |
+|----------------|--------|--------|
+| [Destructive Attack 'DUSTMAN'](2020/4_5801098346865100586.pdf) | Jan | SA NCSC |
+
 ### 2019
 
 | Title | Month | Source |
