@@ -97,3 +97,4 @@ Others:
 - [The Dark Side of Russia: How New Internet Laws & Nationalism Fuel Russian Cybercrime](geopolitics/2_5222378669397247503.pdf)
 - [Huawei's Position Paper on Cyber Security](geopolitics/2_5224367153355949642.pdf)
 - [The Dark Side of Asia: An inside look into Asia's growing underground world](geopolitics/2_5226431915933828595.pdf)
+- [Iranian cyber-activities in the context of regional rivalries and international tensions](geopolitics/2_5228688908362974454.pdf)
