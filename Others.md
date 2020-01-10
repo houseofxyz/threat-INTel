@@ -17,6 +17,11 @@
 Others:
 
 - https://news.yahoo.com/revealed-how-a-secret-dutch-mole-aided-the-us-israeli-stuxnet-cyber-attack-on-iran-160026018.html
+- https://www.virustotal.com/gui/file/38cdb4dbddf9c9b682d47dcbcd79f61fddf7f237fdfc3ee17bddbac061944e06/detection
+- http://37.156.146.163/PUB/SANS/SANS%20508%20DVD/example-memory-images/
+- https://news.ycombinator.com/item?id=2212922
+- https://github.com/Laurelai/decompile-dump
+- http://laurelai.info/index.php/hbgary-wanted-to-suppress-stuxnet-research/
 
 ### Sandworm
 
@@ -77,6 +82,18 @@ Others:
 
 - https://www.fastcompany.com/90417865/new-botnet-nabbed-victims-by-sending-30000-sextortion-emails-per-hour
 - https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware
+
+### Lurk / Angler
+
+- https://www.bankinfosecurity.com/russia-busts-nine-more-lurk-malware-suspects-a-9679
+- https://www.zdnet.com/article/notorious-cyber-crime-gang-behind-global-bank-hacking-spree-returns-with-new-attacks/
+- https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html
+- https://labs.sentinelone.com/reversing-rig-exploit-kit-infection-chain-internals-exploits/
+- https://securelist.com/the-hunt-for-lurk/75944/
+
+### Fin
+
+- http://adelmas.com/blog/flokibot.php
 
 ### State sponsored
 
