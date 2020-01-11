@@ -85,6 +85,8 @@ Others:
 
 ### Lurk / Angler
 
+Others:
+
 - https://www.bankinfosecurity.com/russia-busts-nine-more-lurk-malware-suspects-a-9679
 - https://www.zdnet.com/article/notorious-cyber-crime-gang-behind-global-bank-hacking-spree-returns-with-new-attacks/
 - https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html
@@ -108,7 +110,11 @@ Others:
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
 | [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
 
-### Geopolitics
+### Unsorted
+
+- https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
+
+### Geopolitics WIP
 
 - [Beyond 'Cyber War': Russia’s Use of Strategic Cyber Espionage and Information Operations in Ukraine](geopolitics/2_5222072700222047339.pdf)
 - [The Dark Side of Russia: How New Internet Laws & Nationalism Fuel Russian Cybercrime](geopolitics/2_5222378669397247503.pdf)
