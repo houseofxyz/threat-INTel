@@ -4,13 +4,14 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Warning: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
-**Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
+**Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/88665.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
 ### 2020
 
 | Title | Month | Source |
 |----------------|--------|--------|
 | [Destructive Attack 'DUSTMAN'](2020/4_5801098346865100586.pdf) | Jan | SA NCSC |
+| [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | TrendMicro |
 
 ### 2019
 

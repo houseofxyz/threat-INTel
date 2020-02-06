@@ -109,10 +109,25 @@ Others:
 | [Hi-Tech Crime Trends 2019/2020](2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
 | [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
+| [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](2019/88676.pdf) | 2019 | SecureD |
 
 ### Unsorted
 
 - https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
+- [I Was a Cybercrook for the FBI](200x/69485.pdf)
+
+### Bezos'
+
+- [Project Cato](2020/88632.pdf)
+- [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](2019/Lord-of-the-Flies_Redacted_6-25-19.pdf) 
+- https://www.nytimes.com/2018/11/14/world/middleeast/saudi-arabia-crown-prince-loyalists.html
+- https://archive.fo/20181030152706/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=1756908
+- https://www.bellingcat.com/news/mena/2019/06/26/lord-of-the-flies-an-open-source-investigation-into-saud-al-qahtani/
+- https://www.thedailybeast.com/how-the-saudis-made-jeff-bezos-public-enemy-1
+- https://www.bloomberg.com/news/articles/2018-11-04/saudis-call-for-amazon-boycott-over-anger-at-washington-post
+- https://www.vice.com/en_us/article/v74v34/saudi-arabia-hacked-jeff-bezos-phone-technical-report
+- https://twitter.com/dinodaizovi/status/1221324029841244161
+- https://github.com/ddz/whatsapp-media-decrypt
 
 ### Geopolitics WIP
 
