@@ -12,6 +12,7 @@ Warning: If you are looking for every type of publicly available documents and n
 |----------------|--------|--------|
 | [Destructive Attack 'DUSTMAN'](2020/4_5801098346865100586.pdf) | Jan | SA NCSC |
 | [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | TrendMicro |
+| [North American Electric Cyber Threat Perspective](2020/NA-EL-Threat-Perspective-2019.pdf) | Jan | Dragos |
 
 ### 2019
 
