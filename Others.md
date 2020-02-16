@@ -58,6 +58,27 @@ Others:
 
 - PRIVATE 
 
+### Regin 
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Equation Group: Questions And Answers](2015/Equation_group_questions_and_answers.pdf) |     2015/Feb | Kaspersky |
+| [Regin: Top-Tier Espionage Tool Enables Stealthy Surveillance](2014/regin-analysis.pdf)     | 2014/Nov | Symantec |
+| [W32/Regin, Stage #1](2014/w32_regin_stage_1.pdf) | 2014/Dec | F-Secure |
+| [W64/Regin, Stage #1](2014/w64_regin_stage_1.pdf) | 2014/Dec | F-Secure |
+
+Others:
+
+- https://theintercept.com/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/
+- https://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance
+- https://www.spiegel.de/international/europe/nsa-spied-on-european-union-offices-a-908590.html
+- https://web.archive.org/web/20170214165250/http://2014.hack.lu/archive/2014/hacklu-joker-presentation.pdf
+- http://www.m3forum.net/m3forum/archive/index.php/t-498929.html
+- https://medium.com/@botherder/everything-we-know-of-nsa-and-five-eyes-malware-e8eac172d3b5
+- https://www.virustotal.com/gui/file/4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff/detection
+- https://firstlook.org/wp-uploads/sites/1/regin.zip
+
+
 ### The Mastermind
 
 | Title | Year/Month | Source |
