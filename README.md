@@ -6,6 +6,8 @@ Warning: If you are looking for every type of publicly available documents and n
 
 **Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, based on the `ThaiCert` [Threat Actor Encyclopedia](2019/88665.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
+Depending on what type of information you are looking for, you may also find this [page](Others.md) useful.
+
 ### 2020
 
 | Title | Month | Source |
