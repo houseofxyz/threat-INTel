@@ -123,6 +123,7 @@ Others:
 
 - [Project Cato](2020/88632.pdf)
 - [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](2019/Lord-of-the-Flies_Redacted_6-25-19.pdf) 
+
 - https://www.nytimes.com/2018/11/14/world/middleeast/saudi-arabia-crown-prince-loyalists.html
 - https://archive.fo/20181030152706/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=1756908
 - https://www.bellingcat.com/news/mena/2019/06/26/lord-of-the-flies-an-open-source-investigation-into-saud-al-qahtani/
@@ -135,12 +136,15 @@ Others:
 
 ### Unsorted 
 
-- https://blog.google/technology/safety-security/update-state-sponsored-activity/
-- https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
+| Title | Year/Month | Source |
+|----------------|--------|--------|
 | [Hi-Tech Crime Trends 2019/2020](2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
 | [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
 | [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](2019/88676.pdf) | 2019 | SecureD |
-- https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
 - [I Was a Cybercrook for the FBI](200x/69485.pdf)
+
+- https://blog.google/technology/safety-security/update-state-sponsored-activity/
+- https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
+- https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
 
