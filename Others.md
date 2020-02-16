@@ -22,6 +22,8 @@ Others:
 - https://news.ycombinator.com/item?id=2212922
 - https://github.com/Laurelai/decompile-dump
 - http://laurelai.info/index.php/hbgary-wanted-to-suppress-stuxnet-research/
+- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
+- https://www.wired.com/2015/06/kaspersky-finds-new-nation-state-attack-network/
 
 ### Sandworm
 
@@ -72,6 +74,7 @@ Others:
 - https://theintercept.com/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/
 - https://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance
 - https://www.spiegel.de/international/europe/nsa-spied-on-european-union-offices-a-908590.html
+- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
 - https://web.archive.org/web/20170214165250/http://2014.hack.lu/archive/2014/hacklu-joker-presentation.pdf
 - http://www.m3forum.net/m3forum/archive/index.php/t-498929.html
 - https://medium.com/@botherder/everything-we-know-of-nsa-and-five-eyes-malware-e8eac172d3b5
