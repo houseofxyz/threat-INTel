@@ -1,6 +1,6 @@
 # APT Group by Name (work in progress)
 
-Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) by ThaiCert and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team.
+Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/88665.pdf) by ThaiCert and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team.
 
 ## [APT1](https://attack.mitre.org/groups/G0006)
 ### aka Comment Crew, Comment Group, Comment Panda, TG-8223, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shangai Group, GIF89a
