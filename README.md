@@ -15,6 +15,9 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Destructive Attack 'DUSTMAN'](2020/4_5801098346865100586.pdf) | Jan | SA NCSC |
 | [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | TrendMicro |
 | [North American Electric Cyber Threat Perspective](2020/NA-EL-Threat-Perspective-2019.pdf) | Jan | Dragos |
+| [New Destructive Wiper "ZeroCleare" Targets Energy Sector in the Middle East](2020/2_5357541346036942257.pdf) | Jan | IBM |
+| [Fox Kitten Campaign: Widespread Iranian Espionage-Offensive Campaign](2020/2_5357446422964733276.pdf) | Feb | ClearSky |
+| [Crime Without Punishment: In-depth analysis of js-sniffers](2020/Group-IB_js-sniffers.pdf) | Feb | Group IB |
 
 ### 2019
 
