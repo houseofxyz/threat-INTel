@@ -18,6 +18,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [New Destructive Wiper "ZeroCleare" Targets Energy Sector in the Middle East](2020/2_5357541346036942257.pdf) | Jan | IBM |
 | [Fox Kitten Campaign: Widespread Iranian Espionage-Offensive Campaign](2020/2_5357446422964733276.pdf) | Feb | ClearSky |
 | [Crime Without Punishment: In-depth analysis of js-sniffers](2020/Group-IB_js-sniffers.pdf) | Feb | Group IB |
+| [International Security and Estonia](2020/raport-2020-en.pdf) | Feb | EFIS |
 
 ### 2019
 
