@@ -145,8 +145,11 @@ Others:
 | [Kaspersky Security Bulletin: Advanced threat predictions for 2020](2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
 | [ESET Cybersecurity Trends 2020](2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
 | [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](2019/88676.pdf) | 2019 | SecureD |
-- [I Was a Cybercrook for the FBI](200x/69485.pdf)
+| [CrowdStrike Global Threat Report](2020/2020_CrowdStrike_Report.pdf) | 2020 | CrowdStrike |
+| [Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources](2020/Legal_Considerations_when_Gathering_Online_Cyber_Threat_Intelligence_and_Purchasing_Data_from_Illicit_Sources.pdf) | 2020 | CCIPS |
+| [The 2020 State of Crypto Crime: Everything you need to know about darknet markets, exchange hacks, money laundering and more](2020/THE_2020_STATE_OF_CRYPTO_CRIME.pdf) | 2020 | ChainAnalysis |
 
+- [I Was a Cybercrook for the FBI](200x/69485.pdf)
 - https://blog.google/technology/safety-security/update-state-sponsored-activity/
 - https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
 - https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
