@@ -19,6 +19,9 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Fox Kitten Campaign: Widespread Iranian Espionage-Offensive Campaign](2020/2_5357446422964733276.pdf) | Feb | ClearSky |
 | [Crime Without Punishment: In-depth analysis of js-sniffers](2020/Group-IB_js-sniffers.pdf) | Feb | Group IB |
 | [International Security and Estonia](2020/raport-2020-en.pdf) | Feb | EFIS |
+| [And then there were 6: A story of cyberspionage incident response by DART that uncovered five additional threat actors in one environment](2020/And_then_there_were_6.pdf) | Feb | Microsoft |
+| [Cloud Snooper attack bypasses firewall security measures](2020/Cloud_Snooper.pdf) | Feb | Sophos |
+| [Profiling of TA505 Threat Group That Continues to Attack the Financial Sector](2020/Profiling_of_TA505_Threat_Group.pdf) | Feb | FSI |
 
 ### 2019
 
