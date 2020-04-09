@@ -16,12 +16,17 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | TrendMicro |
 | [North American Electric Cyber Threat Perspective](2020/NA-EL-Threat-Perspective-2019.pdf) | Jan | Dragos |
 | [New Destructive Wiper "ZeroCleare" Targets Energy Sector in the Middle East](2020/2_5357541346036942257.pdf) | Jan | IBM |
+| [APT10 Threat Analysis Report](2020/apt10.pdf) | Jan | Adeo |
 | [Fox Kitten Campaign: Widespread Iranian Espionage-Offensive Campaign](2020/2_5357446422964733276.pdf) | Feb | ClearSky |
 | [Crime Without Punishment: In-depth analysis of js-sniffers](2020/Group-IB_js-sniffers.pdf) | Feb | Group IB |
 | [International Security and Estonia](2020/raport-2020-en.pdf) | Feb | EFIS |
 | [And then there were 6: A story of cyberspionage incident response by DART that uncovered five additional threat actors in one environment](2020/And_then_there_were_6.pdf) | Feb | Microsoft |
 | [Cloud Snooper attack bypasses firewall security measures](2020/Cloud_Snooper.pdf) | Feb | Sophos |
 | [Profiling of TA505 Threat Group That Continues to Attack the Financial Sector](2020/Profiling_of_TA505_Threat_Group.pdf) | Feb | FSI |
+| [Operation Poisoned News: Hong Kong Users Targeted with Mobile Malware via Local News Links](2020/Operation_Poisoned_News.pdf) |Mar | TrendMicro |
+| [Bearing Witness: Uncovering the Logic Behind Russian Military Cyber Operations](2020/bearing-witness-uncovering-the-logic-behind-russian-military-cyber-operations-2020.pdf) | Mar | Booz Allen |
+| [Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](2020/Decade_of_the_Rats.pdf) | Apr | BlackBerry |
+| [Revealing Targets of the Iranian MuddyWater Group, Extracted from their C2](2020/107607.pdf) | Apr | Clearsky |
 
 ### 2019
 
@@ -41,6 +46,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf) | Jun | ThaiCert |
 | [Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers](2019/cybereason_Operation_Soft_Cell.pdf) | Jun | Cybereason |
 | [The Predator in your Pocket](2019/stalkerware-holistic.pdf) | Jun | Citizen Lab |
+| [Iranian APT group MuddyWater Adds Exploits to Their Arsenal](2019/Clearsky-Iranian-APT-group-MuddyWater-Adds-Exploits-to-Their-Arsenal.pdf) Jun | Clearsky |
 | [Iranian Threat Actor Amasses Large Cyber Operations Infrastructure Network to Target Saudi Organizations](2019/cta-2019-0626.pdf) | Jun | Recorded Future |
 | [EMOTET: A technical analysis of the destructive, polymorphic malware](2019/Bromium-Emotet-Technical-Analysis-Report.pdf) | Jul | Bromium |
 | [Bestsellers in the Underground Economy: Measuring Malware Polularity by Forum](2019/2_5308045752075814088.pdf) | Jul | Recorded Future |
