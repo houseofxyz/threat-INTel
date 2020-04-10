@@ -23,10 +23,12 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [And then there were 6: A story of cyberspionage incident response by DART that uncovered five additional threat actors in one environment](2020/And_then_there_were_6.pdf) | Feb | Microsoft |
 | [Cloud Snooper attack bypasses firewall security measures](2020/Cloud_Snooper.pdf) | Feb | Sophos |
 | [Profiling of TA505 Threat Group That Continues to Attack the Financial Sector](2020/Profiling_of_TA505_Threat_Group.pdf) | Feb | FSI |
-| [Operation Poisoned News: Hong Kong Users Targeted with Mobile Malware via Local News Links](2020/Operation_Poisoned_News.pdf) |Mar | TrendMicro |
+| [Operation Poisoned News: Hong Kong Users Targeted with Mobile Malware via Local News Links](2020/Operation_Poisoned_News.pdf) |Mar | Trend Micro |
 | [Bearing Witness: Uncovering the Logic Behind Russian Military Cyber Operations](2020/bearing-witness-uncovering-the-logic-behind-russian-military-cyber-operations-2020.pdf) | Mar | Booz Allen |
+| [Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan](2020/2_5424768398946993891.pdf) | Mar | Trend Micro |
 | [Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](2020/Decade_of_the_Rats.pdf) | Apr | BlackBerry |
 | [Revealing Targets of the Iranian MuddyWater Group, Extracted from their C2](2020/107607.pdf) | Apr | Clearsky |
+| [New dark_nexus IoT Botnet Puts Others to Shame](2020/2_5222179159576413852.pdf2_5222179159576413852.pdf) | Apr | Bitdefender |
 
 ### 2019
 
