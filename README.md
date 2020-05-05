@@ -13,7 +13,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | Title | Month | Source |
 |----------------|--------|--------|
 | [Destructive Attack 'DUSTMAN'](2020/4_5801098346865100586.pdf) | Jan | SA NCSC |
-| [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | TrendMicro |
+| [Caught in the Act: Running a Realistic Factory Honeypot to Capture Real Threats](2020/88504.pdf) | Jan | Trend Micro |
 | [North American Electric Cyber Threat Perspective](2020/NA-EL-Threat-Perspective-2019.pdf) | Jan | Dragos |
 | [New Destructive Wiper "ZeroCleare" Targets Energy Sector in the Middle East](2020/2_5357541346036942257.pdf) | Jan | IBM |
 | [APT10 Threat Analysis Report](2020/apt10.pdf) | Jan | Adeo |
@@ -29,6 +29,11 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](2020/Decade_of_the_Rats.pdf) | Apr | BlackBerry |
 | [Revealing Targets of the Iranian MuddyWater Group, Extracted from their C2](2020/107607.pdf) | Apr | Clearsky |
 | [New dark_nexus IoT Botnet Puts Others to Shame](2020/2_5222179159576413852.pdf) | Apr | Bitdefender |
+| [Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](2020/cta-2020-0429.pdf) | Apr | RecordedFuture |
+| [APTs and COVID-19: How advanced persistent threats use the coronavirus as a lure](2020/200407-MWB-COVID-White-Paper_Final.pdf) | Apr | MalwareBytes |
+| [Craft for Resilence - APT Group Chimera - APT Operation Skeleton Key Targets Taiwan Semiconductor Vendors](2020/20200415_Chimera_V4.1.pdf) | Apr | CyCraft |
+| [The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](2020/Operation_Spy_Cloud_eng.pdf) | Apr | ESRC |
+| [Uncovering DRBControl Inside the Cyberespionage Campaign Targeting Gambling Operations](2020/wp-uncovering-DRBcontrol.pdf) | Apr | Trend Micro |
 
 ### 2019
 
@@ -69,7 +74,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | Nov | Wired |
 | [Operation Wocao Shining a light on one of China’s hidden hacking groups](2019/201912_Report_Operation_Wocao.pdf) | Dec | FoxIT |
 | [Operation Gamework: Infrastructure Overlaps Found Between BlueAlpha and Iranian APTs](2019/cta-2019-1212.pdf) | Dec | RecordedFuture |
-| [Drilling DeepA Look at Cyberattacks on the  Oil and Gas Industry](2019/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | Dec | TrendMicro |
+| [Drilling DeepA Look at Cyberattacks on the  Oil and Gas Industry](2019/wp-drilling-deep-a-look-at-cyberattacks-on-the-oil-and-gas-industry.pdf) | Dec | Trend Micro |
 
 ### 2018
 
@@ -113,7 +118,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [The Hunt for 3ve](2018/3ve_google_whiteops_whitepaper_final_nov_2018.pdf) | Nov | Google |
 | [MuddyWater Operationsin Lebanon and Oman](2018/MuddyWater-Operations-in-Lebanon-and-Oman.pdf) | Nov | ClearSky |
 | [Operation Shaheen](2018/WhiteCompanyOperationShaheenReport.pdf) | Nov | Cylance |
-| [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | Dec | TrendMicro |
+| [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | Dec | Trend Micro |
 | [Operation Sharpshooter](2018/rp-operation-sharpshooter.pdf) | Dec | McAfee |
 
 ### 2017
