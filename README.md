@@ -28,7 +28,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan](2020/2_5424768398946993891.pdf) | Mar | Trend Micro |
 | [Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android](2020/Decade_of_the_Rats.pdf) | Apr | BlackBerry |
 | [Revealing Targets of the Iranian MuddyWater Group, Extracted from their C2](2020/107607.pdf) | Apr | Clearsky |
-| [New dark_nexus IoT Botnet Puts Others to Shame](2020/2_5222179159576413852.pdf2_5222179159576413852.pdf) | Apr | Bitdefender |
+| [New dark_nexus IoT Botnet Puts Others to Shame](2020/2_5222179159576413852.pdf) | Apr | Bitdefender |
 
 ### 2019
 
