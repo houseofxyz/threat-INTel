@@ -34,6 +34,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Craft for Resilence - APT Group Chimera - APT Operation Skeleton Key Targets Taiwan Semiconductor Vendors](2020/20200415_Chimera_V4.1.pdf) | Apr | CyCraft |
 | [The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](2020/Operation_Spy_Cloud_eng.pdf) | Apr | ESRC |
 | [Uncovering DRBControl Inside the Cyberespionage Campaign Targeting Gambling Operations](2020/wp-uncovering-DRBcontrol.pdf) | Apr | Trend Micro |
+| [Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](2020/2_5348093092295608246.pdf) | May | Bitdefender |
 
 ### 2019
 
