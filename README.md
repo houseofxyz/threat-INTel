@@ -35,6 +35,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](2020/Operation_Spy_Cloud_eng.pdf) | Apr | ESRC |
 | [Uncovering DRBControl Inside the Cyberespionage Campaign Targeting Gambling Operations](2020/wp-uncovering-DRBcontrol.pdf) | Apr | Trend Micro |
 | [Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](2020/2_5348093092295608246.pdf) | May | Bitdefender |
+| [The "Silent Night" Zloader/Zbot](2020/2_5348507608179279471.pdf) | May | Malwarebytes & Hyas |
 
 ### 2019
 
