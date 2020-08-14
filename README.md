@@ -48,6 +48,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Study of the APT attacks on state institutions in Kazakhstan and Kyrgyzstan](2020/2_5246831700624803765.pdf) | Jul | Dr.Web |
 | [The Hacker Infrastructure and Underground Hosting. An overview of the cybercriminal market](2020/2_5249083500438488411.pdf) | Jul | Trend Micro |
 | [Worm War: The Botnet Battle for IoT Territory](2020/2_5249083500438488420.pdf) | Jul | Trend Micro |
+| [APT29 targets COVID-19 vaccine development](2020/Advisory-APT29-targets-COVID-19-vaccine-development-V1-1.pdf) | Jul | NCSC |
 | [Card Fraud in a PSD2 World: A Few Examples](2020/2_5249083500438488439.pdf) | Jul | Cyber R&D Lab |
 | [THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](2020/2020-07-the-fake-cisco.pdf) | Jul | F-Secure |
 | [Cosmic Lynx: The Rise of Russian BEC](2020/acid-agari-cosmic-lynx.pdf) | Jul | Agari |
