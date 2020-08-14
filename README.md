@@ -38,6 +38,8 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](2020/2_5348093092295608246.pdf) | May | Bitdefender |
 | [The "Silent Night" Zloader/Zbot](2020/2_5348507608179279471.pdf) | May | Malwarebytes & Hyas |
 | [Tactics, Techniques and Procedures Used to Target Australian Networks](2020/2_5352634118267995637.pdf) | May | ACSC |
+| [Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](2020/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf) | May | BitDefender |
+| [Leery Turtle Threat Report](2020/LeeryTurtleThreatReport_05_20.pdf) | May | CyberStruggle |
 | [AWS Shield Threat Landscape Report Q1 2020](2020/2_5420404162418443992.pdf) | May | AWS |
 | [Shifts in Underground Markets](2020/2_5371064119287874977.pdf) | May | Trend Micro |
 | [From AGENT.BTZ to COMRAT V4. A ten-year journey](2020/2_5219890908375287908.pdf) | May | ESET |
@@ -47,6 +49,8 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [The Hacker Infrastructure and Underground Hosting. An overview of the cybercriminal market](2020/2_5249083500438488411.pdf) | Jul | Trend Micro |
 | [Worm War: The Botnet Battle for IoT Territory](2020/2_5249083500438488420.pdf) | Jul | Trend Micro |
 | [Card Fraud in a PSD2 World: A Few Examples](2020/2_5249083500438488439.pdf) | Jul | Cyber R&D Lab |
+| [THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](2020/2020-07-the-fake-cisco.pdf) | Jul | F-Secure |
+| [Cosmic Lynx: The Rise of Russian BEC](2020/acid-agari-cosmic-lynx.pdf) | Jul | Agari |
 | [Chinese state-sponsored group 'reddelta' targets the Vatican and Catholic organizations](2020/2_5278572389410539410.pdf) | Jul | Recorded Future |
 | [Operation 'Dream Job'. Widespread North Korean Espionage Campaign](2020/2_5310207632454191378.pdf) | Aug | ClearSky |
 | [Pillars of Russia's Desinformation and Propaganda Ecosystem](2020/2_5310207632454191381.pdf) | Aug | U.S. Department of State |
