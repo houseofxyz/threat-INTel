@@ -33,11 +33,24 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [APTs and COVID-19: How advanced persistent threats use the coronavirus as a lure](2020/200407-MWB-COVID-White-Paper_Final.pdf) | Apr | MalwareBytes |
 | [Craft for Resilence - APT Group Chimera - APT Operation Skeleton Key Targets Taiwan Semiconductor Vendors](2020/20200415_Chimera_V4.1.pdf) | Apr | CyCraft |
 | [The 'Spy Cloud' Operation: Geumseong121 group carries out the APT attack disguising the evidence of North Korean defection](2020/Operation_Spy_Cloud_eng.pdf) | Apr | ESRC |
+| [Threat landscape for industrial automation systems](2020/KASPERSKY_H22019_ICS_REPORT_FINAL_EN.pdf) | Apr | Kaspersky |
 | [Uncovering DRBControl Inside the Cyberespionage Campaign Targeting Gambling Operations](2020/wp-uncovering-DRBcontrol.pdf) | Apr | Trend Micro |
 | [Iranian Chafer APT Targeted Air Transportation and Government in Kuwait and Saudi Arabia](2020/2_5348093092295608246.pdf) | May | Bitdefender |
 | [The "Silent Night" Zloader/Zbot](2020/2_5348507608179279471.pdf) | May | Malwarebytes & Hyas |
 | [Tactics, Techniques and Procedures Used to Target Australian Networks](2020/2_5352634118267995637.pdf) | May | ACSC |
+| [AWS Shield Threat Landscape Report Q1 2020](2020/2_5420404162418443992.pdf) | May | AWS |
 | [Shifts in Underground Markets](2020/2_5371064119287874977.pdf) | May | Trend Micro |
+| [From AGENT.BTZ to COMRAT V4. A ten-year journey](2020/2_5219890908375287908.pdf) | May | ESET |
+| [Mobile APT Surveillance Campaigns Targeting Uyghurs](2020/2_5471880419202827949.pdf) | Jun | Lookout |
+| [The Dark Overlord Cyber Investigation Report](2020/2_5235887904911263740.pdf) | Jul | Data Viper |
+| [Study of the APT attacks on state institutions in Kazakhstan and Kyrgyzstan](2020/2_5246831700624803765.pdf) | Jul | Dr.Web |
+| [The Hacker Infrastructure and Underground Hosting. An overview of the cybercriminal market](2020/2_5249083500438488411.pdf) | Jul | Trend Micro |
+| [Worm War: The Botnet Battle for IoT Territory](2020/2_5249083500438488420.pdf) | Jul | Trend Micro |
+| [Card Fraud in a PSD2 World: A Few Examples](2020/2_5249083500438488439.pdf) | Jul | Cyber R&D Lab |
+| [Chinese state-sponsored group 'reddelta' targets the Vatican and Catholic organizations](2020/2_5278572389410539410.pdf) | Jul | Recorded Future |
+| [Operation 'Dream Job'. Widespread North Korean Espionage Campaign](2020/2_5310207632454191378.pdf) | Aug | ClearSky |
+| [Pillars of Russia's Desinformation and Propaganda Ecosystem](2020/2_5310207632454191381.pdf) | Aug | U.S. Department of State |
+| [Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](2020/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | Aug | NSA and FBI |
 
 ### 2019
 
@@ -249,6 +262,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Insight In To A Strategic Web Compromise And Attack Campaign Against Hong Kong Infrastructure](2015/DTL-12012015-01.pdf) | Jan | Dragon Threat Labs |
 | [The Waterbug Attack Group](2015/waterbug-attack-group.pdf) | Jan | Symantec |
 | [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | Feb | Kaspersky |
+| [MEDJACK.4 Medical Device Hijacking](2015/2_5402583565718259452.pdf) | Feb | TrapX |
 | [Behind The Syrian Conflict's Digital Front Lines](2015/rpt-behind-the-syria-conflict.pdf) | Feb | FireEye |
 | [The Desert Falcons Targeted Attacks](2015/The-Desert-Falcons-targeted-attacks.pdf) | Feb | Kaspersky |
 | [Southeast Asia: An Evolving Cyber Threat Landscape](2015/rpt-southeast-asia-threat-landscape.pdf) | Feb | FireEye |
