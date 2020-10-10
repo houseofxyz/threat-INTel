@@ -23,6 +23,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [And then there were 6: A story of cyberspionage incident response by DART that uncovered five additional threat actors in one environment](2020/And_then_there_were_6.pdf) | Feb | Microsoft |
 | [Cloud Snooper attack bypasses firewall security measures](2020/Cloud_Snooper.pdf) | Feb | Sophos |
 | [Profiling of TA505 Threat Group That Continues to Attack the Financial Sector](2020/Profiling_of_TA505_Threat_Group.pdf) | Feb | FSI |
+| [The Lazarus Constellation A study on North Korean malware](2020/2_5354866165527087219.pdf) | Feb | Lexfo |
 | [Operation Poisoned News: Hong Kong Users Targeted with Mobile Malware via Local News Links](2020/Operation_Poisoned_News.pdf) |Mar | Trend Micro |
 | [Bearing Witness: Uncovering the Logic Behind Russian Military Cyber Operations](2020/bearing-witness-uncovering-the-logic-behind-russian-military-cyber-operations-2020.pdf) | Mar | Booz Allen |
 | [Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan](2020/2_5424768398946993891.pdf) | Mar | Trend Micro |
@@ -57,7 +58,21 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Pillars of Russia's Desinformation and Propaganda Ecosystem](2020/2_5310207632454191381.pdf) | Aug | U.S. Department of State |
 | [Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](2020/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | Aug | NSA and FBI |
 | [No need to hack when it's leaking: GITHUB HEALTHCARE LEAKS](2020/2_5319106843346208325.pdf) | Aug | GitHub |
-
+| [LAZARUS GROUP: Campaign Targetting The Cryptocurrenct Vertical](2020/2_5343537399009904368.pdf) | Aug | F-Secure |
+| [Development of the activity of the TA505 Cybercriminal Group](2020/2_5350498639053588191.pdf) | Aug | ANSSI |
+| [The Kittens Are Back in Town 3 Charming Kitten Campaign Evolved and Deploying Spear-Phishing link by WhatsApp](2020/2_5352614365713402080.pdf) | Aug | ClearSky | 
+| [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks](2020/2_5352750438867273316.pdf) | Aug | USCYBERCOM |
+| [ULTRARANK The unexpected twist of a JS-sniffer triple threat](2020/2_5361980413780691010.pdf) | Aug | Group IB | 
+| [CERBERUS Banking Trojan Analysis](2020/2_5368578325360937307.pdf) | Aug | Cyberwise |
+| [REDCURL The pentest you didn't know about](2020/2_5370732951539550297.pdf) | Aug | Group IB |
+| [The French Underground Under a Shroud of Extreme Caution](2020/2_5429601942257010393.pdf) | NA | Trend Micro |
+| [Cybercrime in West Africa Poised for an Underground Market](2020/2_5429601942257010394.pdf) | NA | Trend Micro |
+| [Lock Like a Pro: How QAKBOT Fuels Enterprise Ransomware Campaigns](2020/2_5406875492177413645.pdf) | Sep | Group IB |
+| [SideCopy An insight into Transparent Tribe's sub-division which has been incorrectly attributed for years](2020/2_5447658130798282764.pdf) | Sep | Seqrite |
+| [ShadowPad: new activity from the Winnti group](2020/2_5454144652401707044.pdf) | NA | PT |
+| [LATAM Financial Cybercrime: Competitors-in-crime sharing TTPs](2020/2_5454144652401707099.pdf) | NA | ESET |
+| [Threat landscape for industrial automation systems](2020/2_5454144652401707105.pdf) | Sep | Kaspersky |
+| [AT commands, Tor-based communications: meet ATTOR, A fantasy creature and also a Spy platform](2020/ESET_Attor_102019.pdf) | NA | ESET |
 
 ### 2019
 
