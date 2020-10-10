@@ -56,6 +56,8 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Operation 'Dream Job'. Widespread North Korean Espionage Campaign](2020/2_5310207632454191378.pdf) | Aug | ClearSky |
 | [Pillars of Russia's Desinformation and Propaganda Ecosystem](2020/2_5310207632454191381.pdf) | Aug | U.S. Department of State |
 | [Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](2020/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | Aug | NSA and FBI |
+| [No need to hack when it's leaking: GITHUB HEALTHCARE LEAKS](2020/2_5319106843346208325.pdf) | Aug | GitHub |
+
 
 ### 2019
 
