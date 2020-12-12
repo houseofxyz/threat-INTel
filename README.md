@@ -82,6 +82,8 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Banking Web Injects Are Top Cyber Threat for Financial Sector](2020/2_5314409111197059313.pdf) | Oct | Recorded Future|
 | [CHAES: Novel Malware Targeting Latin American E-Commerce](2020/2_5307676797205225239.pdf) | Nov | Cybereason |
 | [Threat Profile JUPYTER Infostealer](2020/2_5370723725949798606.pdf) | Nov | Morphisec |
+| [Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) | Nov | KR CERT |
+| [Dissecting a Chinese APT Targeting South Eastern Asian Government Institutions](2020/Bitdefender-Whitepaper-Chinese-APT.pdf) | Nov | BitDefender |
 | [TRICKBOT Now Offers 'TRICKBOOT': PERSIST, BRICK, PROFIT](2020/2_5375456543686789007.pdf) | Dec | Eclypsium |
 | [MOLERATS in the Cloud: New Malware Arsenal Abuses Cloud Platforms in Middle East Espionage Campaign](2020/2_5370723725949798602.pdf) | Dec | Cybereason |
 
