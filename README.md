@@ -73,6 +73,17 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [LATAM Financial Cybercrime: Competitors-in-crime sharing TTPs](2020/2_5454144652401707099.pdf) | NA | ESET |
 | [Threat landscape for industrial automation systems](2020/2_5454144652401707105.pdf) | Sep | Kaspersky |
 | [AT commands, Tor-based communications: meet ATTOR, A fantasy creature and also a Spy platform](2020/ESET_Attor_102019.pdf) | NA | ESET |
+| [Operation Earth Kitsune Tracking SLUB's Current Operations](2020/2_5217610280741112236.pdf) | Oct | Trend Micro |
+| [Study of the ShadowPad APT backdoor and its relation to PlugX](2020/2_5242358294617524735.pdf) | Oct | Dr.Web |
+| [North Korean Advanced Persistent Threat Focus: Kimsuky](2020/2_5244695396776675510.pdf) | Oct | CISA/FBI/CNMF |
+| [Le Malware-as-a-service EMOTET](2020/2_5260466241809680559.pdf) | Oct | ANSSI |
+| [Supply Chain Attacks in the Age of Cloud Computing: Risks, Mitigations, and the Importance of Securing Back Ends](2020/2_5246913880529046215.pdf) | Oct | Trend Micro |
+| [Operation Quicksand MuddyWater’s Offensive Attack Against Israeli Organizations](2020/4_5785208784641067996.pdf) | Oct | Clear Sky |
+| [Banking Web Injects Are Top Cyber Threat for Financial Sector](2020/2_5314409111197059313.pdf) | Oct | Recorded Future|
+| [CHAES: Novel Malware Targeting Latin American E-Commerce](2020/2_5307676797205225239.pdf) | Nov | Cybereason |
+| [Threat Profile JUPYTER Infostealer](2020/2_5370723725949798606.pdf) | Nov | Morphisec |
+| [TRICKBOT Now Offers 'TRICKBOOT': PERSIST, BRICK, PROFIT](2020/2_5375456543686789007.pdf) | Dec | Eclypsium |
+| [MOLERATS in the Cloud: New Malware Arsenal Abuses Cloud Platforms in Middle East Espionage Campaign](2020/2_5370723725949798602.pdf) | Dec | Cybereason |
 
 ### 2019
 
