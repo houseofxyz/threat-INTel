@@ -86,6 +86,10 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Dissecting a Chinese APT Targeting South Eastern Asian Government Institutions](2020/Bitdefender-Whitepaper-Chinese-APT.pdf) | Nov | BitDefender |
 | [TRICKBOT Now Offers 'TRICKBOOT': PERSIST, BRICK, PROFIT](2020/2_5375456543686789007.pdf) | Dec | Eclypsium |
 | [MOLERATS in the Cloud: New Malware Arsenal Abuses Cloud Platforms in Middle East Espionage Campaign](2020/2_5370723725949798602.pdf) | Dec | Cybereason |
+| [Adversary Tracking Report When a false flag doesn't work: Exploring the digital-crime underground at campaign preparation stage](2020/2_5379689306971442171.pdf) | Dec | Telsy |
+| [EyeD4kRAT/ShirBiter Overview](2020/2_5384086756482091354.pdf) | Dec | Nyotron |
+| [Egregor Ransomware: The Legacy of Maze Lives on](2020/2_5386338556295777171.pdf) Dec | Group IB |
+| [Finding APTX: Attributing attacks via MITRE TTPs](2020/2_5393201853905242226.pdf) | Dec | Trend Micro |
 
 ### 2019
 
