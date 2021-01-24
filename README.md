@@ -91,7 +91,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Threat Profile JUPYTER Infostealer](2020/2_5370723725949798606.pdf) | Nov | Morphisec |
 | [Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) | Nov | KR CERT |
 | [Dissecting a Chinese APT Targeting South Eastern Asian Government Institutions](2020/Bitdefender-Whitepaper-Chinese-APT.pdf) | Nov | BitDefender |
-| [TTPs 2 Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) Nov | KrCERT |
+| [TTPs 2 Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) | Nov | KrCERT |
 | [TRICKBOT Now Offers 'TRICKBOOT': PERSIST, BRICK, PROFIT](2020/2_5375456543686789007.pdf) | Dec | Eclypsium |
 | [MOLERATS in the Cloud: New Malware Arsenal Abuses Cloud Platforms in Middle East Espionage Campaign](2020/2_5370723725949798602.pdf) | Dec | Cybereason |
 | [Adversary Tracking Report When a false flag doesn't work: Exploring the digital-crime underground at campaign preparation stage](2020/2_5379689306971442171.pdf) | Dec | Telsy |
