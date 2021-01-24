@@ -8,6 +8,13 @@ Warning: If you are looking for every type of publicly available documents and n
 
 Depending on what you are looking for, you may also find this [page](Others.md) useful.
 
+### 2021
+
+| Title | Month | Source |
+|----------------|--------|--------|
+| [The Evolution of the FIN7 JSSLoader](2021/2_5449517104313142153.pdf) | Jan | Morphisec |
+
+
 ### 2020
 
 | Title | Month | Source |
@@ -84,12 +91,14 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Threat Profile JUPYTER Infostealer](2020/2_5370723725949798606.pdf) | Nov | Morphisec |
 | [Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) | Nov | KR CERT |
 | [Dissecting a Chinese APT Targeting South Eastern Asian Government Institutions](2020/Bitdefender-Whitepaper-Chinese-APT.pdf) | Nov | BitDefender |
+| [TTPs 2 Analysis of the Bookcodes RAT C2 framework starting with spear phishing](2020/TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf) Nov | KrCERT |
 | [TRICKBOT Now Offers 'TRICKBOOT': PERSIST, BRICK, PROFIT](2020/2_5375456543686789007.pdf) | Dec | Eclypsium |
 | [MOLERATS in the Cloud: New Malware Arsenal Abuses Cloud Platforms in Middle East Espionage Campaign](2020/2_5370723725949798602.pdf) | Dec | Cybereason |
 | [Adversary Tracking Report When a false flag doesn't work: Exploring the digital-crime underground at campaign preparation stage](2020/2_5379689306971442171.pdf) | Dec | Telsy |
 | [EyeD4kRAT/ShirBiter Overview](2020/2_5384086756482091354.pdf) | Dec | Nyotron |
 | [Egregor Ransomware: The Legacy of Maze Lives on](2020/2_5386338556295777171.pdf) | Dec | Group IB |
 | [Finding APTX: Attributing attacks via MITRE TTPs](2020/2_5393201853905242226.pdf) | Dec | Trend Micro |
+| [APT27 Turns to Ransomware](2020/2_5458836139668409358.pdf) | Dec | Profero |
 
 ### 2019
 
