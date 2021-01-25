@@ -100,6 +100,13 @@ Others:
 
 Source: https://magazine.atavist.com/the-mastermind
 
+Others:
+
+- https://www.wired.com/story/was-bitcoin-created-by-this-international-drug-dealer-maybe/
+- https://news.bitcoin.com/satoshi-nakamoto-paul-le-roux-start-bitcoin-mining-business/
+- https://news.bitcoin.com/the-many-facts-pointing-to-paul-le-roux-being-satoshi-nakamoto/
+- https://medium.com/@fbonomi/paul-le-roux-has-nothing-to-do-with-bitcoin-f534890430db
+
 ### TrickBot
 
 Others:
