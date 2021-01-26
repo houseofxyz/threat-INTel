@@ -154,12 +154,12 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [APT37 Reaper: The Overlooked North Korean Actor](2018/rpt_APT37.pdf) | Feb | FireEye |
 | [BAD TRAFFIC Sandvines PacketLogic Devices Used to Deploy Government Spyware in Turkey and Redirect Egyptian Users to Affiliate Ads](CitizenLab.PacketLogic.pdf) | Mar | The Citizen Lab | 
 | [The Slingshot APT](2018/The-Slingshot-APT_report_ENG_final.pdf) | Mar | Kaspersky |
-| [Industrial Control System Threats](2017-Review-Industrial-Control-System-Threats.pdf) | Mar | Dragos |
+| [Industrial Control System Threats](2018/2017-Review-Industrial-Control-System-Threats.pdf) | Mar | Dragos |
 | [Territorial Dispute - NSA's perspective on APT landscape](2018/ukatemicrysys_territorialdispute.pdf) | Mar | CrySyS Lab |
-| [Targeted Attacks on South Korean Organizations](Tech_Report_Malicious_Hancom.pdf) | Mar | AhnLab |
-| [GravityRAT](GravityRAT.pdf) | Apr | Talos |
+| [Targeted Attacks on South Korean Organizations](2018/Tech_Report_Malicious_Hancom.pdf) | Mar | AhnLab |
+| [GravityRAT](2018/GravityRAT.pdf) | Apr | Talos |
 | [Hogfish Redleaves](2018/Accenture-Hogfish-Threat-Analysis.pdf) | Apr | Accenture |
-| [Mtrends 2018](mtrends-2018.pdf) | May | FireEye |
+| [Mtrends 2018](2018/mtrends-2018.pdf) | May | FireEye |
 | [Burning Umbrella](2018/20180503_Burning_Umbrella.pdf) | May | ProtectWise |
 | [Andariel Group - KR](2018/Andariel_Threat_Group.pdf) | May | Ahnlab |
 | [Irans Hacker Hierarchy Exposed](2018/cta-2018-0509.pdf) | May | RecordedFuture |
@@ -216,6 +216,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
 | [Lazarus Arisen - Architecture / Tools /Attribution](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
+| [Operation Cobalt Kitty](2017/Cybereason_Labs_Analysis_Operation_Cobalt_Kitty.pdf) | May | Cybereason |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | Jun | Dragos |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
 | [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | Jun | Wired |
