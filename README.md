@@ -185,6 +185,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Operation Shaheen](2018/WhiteCompanyOperationShaheenReport.pdf) | Nov | Cylance |
 | [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | Dec | Trend Micro |
 | [Operation Sharpshooter](2018/rp-operation-sharpshooter.pdf) | Dec | McAfee |
+| [The Dark Side of the ForSSHe: A landscape of OpenSSH backdoors](2018/ESET-The_Dark_Side_of_the_ForSSHe.pdf) | Dec | ESET |
 
 ### 2017
 
