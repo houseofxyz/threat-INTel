@@ -13,7 +13,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | Title | Month | Source |
 |----------------|--------|--------|
 | [The Evolution of the FIN7 JSSLoader](2021/2_5449517104313142153.pdf) | Jan | Morphisec |
-
+| [A wild Kobalos appears: Tricksy Linux malware goes after HPCs](2021/ESET_Kobalos.pdf) | Feb | ESET |
 
 ### 2020
 
