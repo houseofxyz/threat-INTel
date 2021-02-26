@@ -1,6 +1,6 @@
 ## Threat INTel Reports
 
-Archive of publicly available threat/cybercrime INTel reports (mostly APT Reports but not limited to). Useful as a reference when you emulate threat actors on a daily basis. Please create an issue if I'm missing a relevant Report.
+Archive of publicly available threat/cybercrime INTel reports (mostly APT Reports but not limited to). Useful as a reference when you emulate/simulate threat actors on a daily basis. Please create an issue if I'm missing a relevant Report.
 
 Warning: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
@@ -14,7 +14,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 |----------------|--------|--------|
 | [The Evolution of the FIN7 JSSLoader](2021/2_5449517104313142153.pdf) | Jan | Morphisec |
 | [A wild Kobalos appears: Tricksy Linux malware goes after HPCs](2021/ESET_Kobalos.pdf) | Feb | ESET |
-| [Lazarus targetsdefense industrywith ThreatNeedle](2021/kaspersky-ics-cert-lazarus-targets-defense-industry-with-threatneedle-en-20210225.pdf) | Feb | Kaspersky |
+| [Lazarus targets defense industrywith ThreatNeedle](2021/kaspersky-ics-cert-lazarus-targets-defense-industry-with-threatneedle-en-20210225.pdf) | Feb | Kaspersky |
 | [LazyScripter: From Empire to double RAT](2021/LazyScripter.pdf) | Feb | MalwareBytes |
 | [Technical Analysis of Babuk Ransomware](2021/rp-babuk-ransomware.pdf) | Feb | McAfee |
 
