@@ -14,6 +14,9 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 |----------------|--------|--------|
 | [The Evolution of the FIN7 JSSLoader](2021/2_5449517104313142153.pdf) | Jan | Morphisec |
 | [A wild Kobalos appears: Tricksy Linux malware goes after HPCs](2021/ESET_Kobalos.pdf) | Feb | ESET |
+| [Lazarus targetsdefense industrywith ThreatNeedle](2021/kaspersky-ics-cert-lazarus-targets-defense-industry-with-threatneedle-en-20210225.pdf) | Feb | Kaspersky |
+| [LazyScripter: From Empire to double RAT](2021/LazyScripter.pdf) | Feb | MalwareBytes |
+| [Technical Analysis of Babuk Ransomware](2021/rp-babuk-ransomware.pdf) | Feb | McAfee |
 
 ### 2020
 
