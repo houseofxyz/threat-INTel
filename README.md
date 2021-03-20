@@ -14,6 +14,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 |----------------|--------|--------|
 | [The Evolution of the FIN7 JSSLoader](2021/2_5449517104313142153.pdf) | Jan | Morphisec |
 | [Lebanese Cedar APT GlobalLebanese EspionageCampaign LeveragingWeb Servers](2021/Lebanese-Cedar-APT.pdf) | Jan | ClearSky |
+| [SANDWORM Intrusion Set Campaign Targeting Centreon Systems](2021/CERTFR-2021-CTI-005.pdf) | Jan | ANSSI |
 | [A wild Kobalos appears: Tricksy Linux malware goes after HPCs](2021/ESET_Kobalos.pdf) | Feb | ESET |
 | [Lazarus targets defense industrywith ThreatNeedle](2021/kaspersky-ics-cert-lazarus-targets-defense-industry-with-threatneedle-en-20210225.pdf) | Feb | Kaspersky |
 | [LazyScripter: From Empire to double RAT](2021/LazyScripter.pdf) | Feb | MalwareBytes |
