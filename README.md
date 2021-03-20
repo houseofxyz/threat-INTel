@@ -21,6 +21,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [APT10: Tracking down the stealth activity of the A41APT campaign](2021/greatidea_A41_v1.0.pdf) | Feb | Kaspersky |
 | [Academics, AI, and APTsHow Six Advanced Persistent Threat-Connected Chinese Universities are Advancing AI Research](2021/CSET-Academics-AI-and-APTs.pdf)| Mar | CSET |
 | [FIN8 Returns with Improved BADHATCH Toolkit](2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
+| [SilverFish GroupThreat Actor Report](2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
 
 ### 2020
 
