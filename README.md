@@ -70,6 +70,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [THE FAKE CISCO: Hunting for backdoors in Counterfeit Cisco devices](2020/2020-07-the-fake-cisco.pdf) | Jul | F-Secure |
 | [Cosmic Lynx: The Rise of Russian BEC](2020/acid-agari-cosmic-lynx.pdf) | Jul | Agari |
 | [Chinese state-sponsored group 'reddelta' targets the Vatican and Catholic organizations](2020/2_5278572389410539410.pdf) | Jul | Recorded Future |
+| [Government Response to the Intelligence and Security Committee of Parliament Report 'Russia'](2020/HMG_Russia_Response_web_accessible.pdf) | Jul | ISC |
 | [Operation 'Dream Job'. Widespread North Korean Espionage Campaign](2020/2_5310207632454191378.pdf) | Aug | ClearSky |
 | [Pillars of Russia's Desinformation and Propaganda Ecosystem](2020/2_5310207632454191381.pdf) | Aug | U.S. Department of State |
 | [Russian GRU 85th GTsSS Deploys Previously Undisclosed Drovorub Malware](2020/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF) | Aug | NSA and FBI |
