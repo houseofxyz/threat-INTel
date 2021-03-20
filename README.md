@@ -18,6 +18,7 @@ Depending on what you are looking for, you may also find this [page](Others.md) 
 | [Lazarus targets defense industrywith ThreatNeedle](2021/kaspersky-ics-cert-lazarus-targets-defense-industry-with-threatneedle-en-20210225.pdf) | Feb | Kaspersky |
 | [LazyScripter: From Empire to double RAT](2021/LazyScripter.pdf) | Feb | MalwareBytes |
 | [Technical Analysis of Babuk Ransomware](2021/rp-babuk-ransomware.pdf) | Feb | McAfee |
+| [APT10: Tracking down the stealth activity of the A41APT campaign](2021/greatidea_A41_v1.0.pdf) | Feb | Kaspersky |
 | [Academics, AI, and APTsHow Six Advanced Persistent Threat-Connected Chinese Universities are Advancing AI Research](2021/CSET-Academics-AI-and-APTs.pdf)| Mar | CSET |
 | [FIN8 Returns with Improved BADHATCH Toolkit](2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
 
