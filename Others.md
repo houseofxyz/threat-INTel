@@ -50,9 +50,9 @@
 
 ## 2019
 
-[What Israel's Strike on Hamas Hackers Means For Cyberwar](https://www.wired.com/story/israel-hamas-cyberattack-air-strike-cyberwar/)
-[The Future Is Here, and It Features Hackers Getting Bombed](https://foreignpolicy.com/2019/05/06/the-future-is-here-and-it-features-hackers-getting-bombed/)
-[Israel Neutralizes Cyber Attack by Blowing Up A Building With Hackers](https://thehackernews.com/2019/05/israel-hamas-hacker-airstrikes.html)
+- [What Israel's Strike on Hamas Hackers Means For Cyberwar](https://www.wired.com/story/israel-hamas-cyberattack-air-strike-cyberwar/)
+- [The Future Is Here, and It Features Hackers Getting Bombed](https://foreignpolicy.com/2019/05/06/the-future-is-here-and-it-features-hackers-getting-bombed/)
+- [Israel Neutralizes Cyber Attack by Blowing Up A Building With Hackers](https://thehackernews.com/2019/05/israel-hamas-hacker-airstrikes.html)
 
 ### The Mastermind
 
