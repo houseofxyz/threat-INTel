@@ -1,17 +1,17 @@
 # APT Group by Name (work in progress)
 
-Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](2019/88665.pdf) by ThaiCert and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team.
+Classification based on [Threat Group Cards: A Threat Actor Encyclopedia](reports/2019/88665.pdf) by ThaiCert and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team.
 
 ## [APT1](https://attack.mitre.org/groups/G0006)
 ### aka Comment Crew, Comment Group, Comment Panda, TG-8223, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shangai Group, GIF89a
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](2018/rp-operation-oceansalt.pdf) | 2018 | Oct | McAfee |
-| [Putter Panda](2014/putter-panda.pdf) | 2014 | Jun | Crowdstrike |
-| [Apt1 Exposing One Of China's Cyber Espionage Units](2013/Mandiant_APT1_Report.pdf) | 2013 | Feb | Mandiant |
-| [APT1s GLASSES: Watching a Human Rights Organization](2013/APT1s-GLASSES-Watching-a-Human-Rights-Organization_websitepdf.pdf) | 2013 | Feb | The Citizen Lab |
-| [Apt1: Technical Backstage](2013/RAP002_APT1_Technical_backstage.1.0.pdf) | 2013 | Mar | itrust |
+| [Operation Oceansalt Attacks South Korea, U.S. and Canada with Source Code from Chinese Hacker Group](reports/2018/rp-operation-oceansalt.pdf) | 2018 | Oct | McAfee |
+| [Putter Panda](reports/2014/putter-panda.pdf) | 2014 | Jun | Crowdstrike |
+| [Apt1 Exposing One Of China's Cyber Espionage Units](reports/2013/Mandiant_APT1_Report.pdf) | 2013 | Feb | Mandiant |
+| [APT1s GLASSES: Watching a Human Rights Organization](reports/2013/APT1s-GLASSES-Watching-a-Human-Rights-Organization_websitepdf.pdf) | 2013 | Feb | The Citizen Lab |
+| [Apt1: Technical Backstage](reports/2013/RAP002_APT1_Technical_backstage.1.0.pdf) | 2013 | Mar | itrust |
 
 Other:
 
@@ -26,7 +26,7 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [APT3 Adversary Emulation Plan](2017/APT3_Adversary_Emulation_Plan.pdf) | 2017 | Sep | MITRE |
+| [APT3 Adversary Emulation Plan](reports/2017/APT3_Adversary_Emulation_Plan.pdf) | 2017 | Sep | MITRE |
 
 Other:
 
@@ -44,22 +44,22 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | 2018 | Jul | CSE Zlab |
-| [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](2018/ESET-LoJax.pdf) | 2018 | Oct | ESET |
-| [APT28: A Window into Russias Cyber Espionage Operations](2017/rpt-apt28.pdf) | 2017 | Jan | FireEye |
-| [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | 2017 | Jan | FireEeye |
-| [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | 2017 | Feb | BitDefender |
-| [Dissecting the APT28 Mac OS X Payload](2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | 2017 | Feb | Bitdefender |
-| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.eset.2017.pdf) | 2017 | May | ESET |
-| [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | 2017 | May | Trend Micro |
-| [En Route with Sednit Part 1: Approaching the Target](2016/eset-sednit-part1.pdf) | 2016 | Oct | ESET |
-| [En Route with Sednit Part 2: Observing the Comings and Goings](2016/eset-sednit-part-2.pdf) | 2016 | Oct | ESET |
-| [En Route with Sednit Part 3: A Mysterious Downloader](2016/eset-sednit-part3.pdf) | 2016 | Oct | ESET |
-| [Use of Fancy Bear Android Malware tracking of Ukrainian Artillery Units](2016/Crowdstrike_FancyBearTracksUkrainianArtillery.pdf) | 2016 | Dec | Crowdstrike |
-| [Sofacy II Same Sofacy, Different Day](2015/cto-tib-20150420-01a.pdf) | 2015 | Apr | PWC |
-| [APT28 Targets Financial Markets: Zero Day Hashes Released](2015/FSOFACY.pdf) | 2015 | May | Root9b |
-| [Operation Pawn Storm Using Decoys to Evade Detection](2014/wp-operation-pawn-storm.pdf) | 2014 | Oct | Trend Micro |
-| [Sofacy Phishing](2014/tactical-intelligence-bulletin---sofacy-phishing-.pdf) |  2014 | Oct | PWC |
+| [Operation Roman Holiday Hunting the Russian APT28 group](reports/2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | 2018 | Jul | CSE Zlab |
+| [LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group](reports/2018/ESET-LoJax.pdf) | 2018 | Oct | ESET |
+| [APT28: A Window into Russias Cyber Espionage Operations](reports/2017/rpt-apt28.pdf) | 2017 | Jan | FireEye |
+| [APT28: At the center of the storm. Russia strategically evolves its cyber operations](reports/2017/APT28-Center-of-Storm-2017.pdf) | 2017 | Jan | FireEeye |
+| [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](reports/2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | 2017 | Feb | BitDefender |
+| [Dissecting the APT28 Mac OS X Payload](reports/2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | 2017 | Feb | Bitdefender |
+| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](reports/2017/Sednit.eset.2017.pdf) | 2017 | May | ESET |
+| [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](reports/2017/wp-two-years-of-pawn-storm.pdf) | 2017 | May | Trend Micro |
+| [En Route with Sednit Part 1: Approaching the Target](reports/2016/eset-sednit-part1.pdf) | 2016 | Oct | ESET |
+| [En Route with Sednit Part 2: Observing the Comings and Goings](reports/2016/eset-sednit-part-2.pdf) | 2016 | Oct | ESET |
+| [En Route with Sednit Part 3: A Mysterious Downloader](reports/2016/eset-sednit-part3.pdf) | 2016 | Oct | ESET |
+| [Use of Fancy Bear Android Malware tracking of Ukrainian Artillery Units](reports/2016/Crowdstrike_FancyBearTracksUkrainianArtillery.pdf) | 2016 | Dec | Crowdstrike |
+| [Sofacy II Same Sofacy, Different Day](reports/2015/cto-tib-20150420-01a.pdf) | 2015 | Apr | PWC |
+| [APT28 Targets Financial Markets: Zero Day Hashes Released](reports/2015/FSOFACY.pdf) | 2015 | May | Root9b |
+| [Operation Pawn Storm Using Decoys to Evade Detection](reports/2014/wp-operation-pawn-storm.pdf) | 2014 | Oct | Trend Micro |
+| [Sofacy Phishing](reports/2014/tactical-intelligence-bulletin---sofacy-phishing-.pdf) |  2014 | Oct | PWC |
 
 Other:
 
@@ -80,10 +80,10 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | 2017 | Feb | US-CERT |
-| [GRIZZLY STEPPE - Russian Malicious Cyber Activity](2016/USCERT_GRIZZLY_STEPPE.pdf) | 2016 | Dec | FBI |
-| [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](2015/rpt-apt29-hammertoss.pdf) | 2015 | Jul | FireEye |
-| [The Dukes: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | 2015 | Dec | F-Secure |
+| [Enhanced Analysis of GRIZZLY STEPPE Activity](reports/2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | 2017 | Feb | US-CERT |
+| [GRIZZLY STEPPE - Russian Malicious Cyber Activity](reports/2016/USCERT_GRIZZLY_STEPPE.pdf) | 2016 | Dec | FBI |
+| [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](reports/2015/rpt-apt29-hammertoss.pdf) | 2015 | Jul | FireEye |
+| [The Dukes: 7 years of Russian cyberespionage](reports/2015/dukes_whitepaper.pdf) | 2015 | Dec | F-Secure |
 
 Other:
 
@@ -101,8 +101,8 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [The Kittens are back in town: Charming Kitten Campaign against Academic Researchers](2019/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf) | 2019 | Sep | ClearSky |
-| [Charming Kitten](2017/Charming_Kitten_2017.pdf) | 2017 | Dec | ClearSky |
+| [The Kittens are back in town: Charming Kitten Campaign against Academic Researchers](reports/2019/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf) | 2019 | Sep | ClearSky |
+| [Charming Kitten](reports/2017/Charming_Kitten_2017.pdf) | 2017 | Dec | ClearSky |
 
 Other:
 
@@ -120,13 +120,13 @@ Other:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Behind the CARBANAK Backdoor](2017/Behind_the_CARBANAK_Backdoor.pdf) | 2017 | Jun | FireEye |
-| [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | 2017 | Nov | RSA |
-| [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
-| [CARBANAK APT THE GREAT BANK ROBBERY](2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
-| [Anunak: Apt Against Financial Institutions](2014/Anunak_APT_against_financial_institutions.pdf) | 2014 | Dec | FoxIT |
+| [Behind the CARBANAK Backdoor](reports/2017/Behind_the_CARBANAK_Backdoor.pdf) | 2017 | Jun | FireEye |
+| [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](reports/2017/the-carbanak-fin7-syndicate.pdf) | 2017 | Nov | RSA |
+| [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](reports/2017/the-shadows-of-ghosts-carbanak-report.pdf) | 2017 | Nov | RSA |
+| [CARBANAK APT THE GREAT BANK ROBBERY](reports/2015/Carbanak_APT_eng.pdf) | 2015 | Feb | Kaspersky |
+| [Anunak: Apt Against Financial Institutions](reports/2014/Anunak_APT_against_financial_institutions.pdf) | 2014 | Dec | FoxIT |
 
-<img src="imgs/FIN7.png" width="80%">
+<img src="reports/imgs/FIN7.png" width="80%">
 
 Others:
 - https://www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html
@@ -156,13 +156,13 @@ Others:
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
-| [Full Discloser of Andariel - A Subgroup of Lazarus Threat Group](2018/Andariel_a_Subgroup_of_Lazarus.pdf) | 2018 | Jun | AhnLab |
-| [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | 2017 | Apr | Kaspersky |
-| [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | 2017 | May | Symantec |
-| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | 2017 | May | Group IB |
-| [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | 2017 | May | Group IB |
-| [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | 2017 | Dec | Proofpoint |
-| [Operation Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | 2016 | Feb | Novetta |
+| [Full Discloser of Andariel - A Subgroup of Lazarus Threat Group](reports/2018/Andariel_a_Subgroup_of_Lazarus.pdf) | 2018 | Jun | AhnLab |
+| [Lazarus Under the Hood](reports/2017/Lazarus_Under_The_Hood_PDF_final.pdf) | 2017 | Apr | Kaspersky |
+| [Lazarus: History of mysterious group behind infamous cyber attacks](reports/2017/Lazarus.pdf) | 2017 | May | Symantec |
+| [Lazarus Arisen - full report](reports/2017/Group-IB_on_LAZARUS.pdf) | 2017 | May | Group IB |
+| [Lazarus Arisen - article](reports/2017/LAZARUS_ARISEN.pdf) | 2017 | May | Group IB |
+| [North Korea Bitten by Bitcoin Bug](reports/2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | 2017 | Dec | Proofpoint |
+| [Operation Blockbuster](reports/2016/Novetta_Operation-Blockbuster-Report.pdf) | 2016 | Feb | Novetta |
 
 Other:
 
@@ -196,7 +196,7 @@ Other:
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 * [Mitre Attack Wiki Groups](https://attack.mitre.org/wiki/Groups)
-* [Threat Group Cards: A Threat Actor Encyclopedia](2019/Threat_Group_Cards.pdf)
+* [Threat Group Cards: A Threat Actor Encyclopedia](reports/2019/Threat_Group_Cards.pdf)
 * [APT CyberCriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 * [APT Report Collection](https://github.com/blackorbird/APT_REPORT)
 * [Who's who of cyber threat actors](https://www.fireeye.com/current-threats/apt-groups.html) according to FireEye (2020)
