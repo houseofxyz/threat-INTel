@@ -47,6 +47,7 @@
 - [Microsoft Security Response Center, “Customer Guidance on Recent Nation-State Cyber Attacks”](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
 - [SolarWinds Documentation for Secure Configuration of the Orion Platform](https://documentation.solarwinds.com/en/Success_Center/orionplatform/content/core-secure-configuration.htm)
 - [FireEye GitHub including Yara rules, Snort rules, hashes, and other IOCs](https://github.com/fireeye/sunburst_countermeasures)
+- [Tactics, Techniques, and Procedures (TTPs) Used in the SolarWinds Breach](https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach)
 
 ## 2019
 
