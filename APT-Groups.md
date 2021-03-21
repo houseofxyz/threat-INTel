@@ -39,7 +39,7 @@ Other:
 - https://www.fireeye.com/blog/threat-research/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html
 - https://www.fireeye.com/blog/threat-research/2014/06/clandestine-fox-part-deux.html
 
-## [APT28](https://attack.mitre.org/groups/G0007/) 
+## [APT28](https://attack.mitre.org/groups/G0007/)
 ### aka Sofacy, Pawn Storm, Sednit, Strontium, Fancy Bear, Group 74, TG-4127, Tsar Team, Swallowtail, SIG40, Snakemackerel, Grizzly Steppe
 
 | Title | Year | Month | Source |
@@ -76,7 +76,7 @@ Other:
 - https://www.emanueledelucia.net/apt28-sofacy-seduploader-under-the-christmas-tree/
 
 ## [APT29](https://attack.mitre.org/groups/G0016/)
-### aka Group 100, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, Iron Hemlock, Minidionis, CloudLook, Grizzly Steppe	 
+### aka Group 100, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, Iron Hemlock, Minidionis, CloudLook, Grizzly Steppe
 
 | Title | Year | Month | Source |
 |----------------|--------|--------|--------|
@@ -90,7 +90,7 @@ Other:
 - https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
 - https://www.slideshare.net/MatthewDunwoody1/no-easy-breach-derby-con-2016
 - https://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory
-- https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html 
+- https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html
 - https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
 - https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
 - https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html
@@ -192,6 +192,85 @@ Other:
 - https://medium.com/threat-intel/lazarus-attacks-wannacry-5fdeddee476c
 - https://securingtomorrow.mcafee.com/mcafee-labs/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families/
 
+## WIP
+### Stuxnet/Duqu/Flame(r)
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Duqu 2.0: A Comparison To Duqu](reports/2015/duqu2_crysys.pdf) | 2015/Jun | CrySyS Lab |
+| [The Duqu 2.0 Technical Details](reports/2015/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) | 2015/Jun | Kaspersky |
+| [Stuxnet 0.5: The Missing Link](reports/2013/stuxnet_0_5_the_missing_link.pdf) | 2013/Feb | Symantec |
+| [The Miniduke Mystery: Pdf 0-Day Government Spy Assembler 0X29A Micro Backdoor](reports/2013/themysteryofthepdf0-dayassemblermicrobackdoor.pdf) | 2013/Feb | Kaspersky |
+| [Miniduke: Indicators](reports/2013/miniduke_indicators_public.pdf) | 2013/Feb | CrySyS Lab |
+| [Skywiper (A.K.A. Flame A.K.A. Flamer): A Complex Malware For Targeted Attacks](reports/2012/skywiper.pdf) | 2012/Mar | CrySyS Lab |
+| [Have I Got Newsforyou: Analysis Of Flamer C&C Server](reports/2012/w32_flamer_newsforyou.pdf) | 2012/May | Symantec |
+| [W32.Stuxnet Dossier](reports/2011/w32_stuxnet_dossier.pdf) | 2011/Feb | Symantec |
+| [Stuxnet Under the Microscope](reports/2011/Stuxnet_Under_the_Microscope.pdf) | 2011/Apr | ESET |
+
+Others:
+
+- https://news.yahoo.com/revealed-how-a-secret-dutch-mole-aided-the-us-israeli-stuxnet-cyber-attack-on-iran-160026018.html
+- https://www.virustotal.com/gui/file/38cdb4dbddf9c9b682d47dcbcd79f61fddf7f237fdfc3ee17bddbac061944e06/detection
+- http://37.156.146.163/PUB/SANS/SANS%20508%20DVD/example-memory-images/
+- https://news.ycombinator.com/item?id=2212922
+- https://github.com/Laurelai/decompile-dump
+- http://laurelai.info/index.php/hbgary-wanted-to-suppress-stuxnet-research/
+- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
+- https://www.wired.com/2015/06/kaspersky-finds-new-nation-state-attack-network/
+
+### Sandworm
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Attack in History (Sandworm)](reports/2019/The_Untold_Story_of_the_2018_Olympics_Cyberattack_the_Most_Deceptive_Hack_in_History_102019.pdf) | 2019/Oct | Wired |
+| [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](reports/2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | 2019/Nov | Wired |
+| [The Untold Story of NotPetya, the Most Devastating Cyberattack in History (Sandworm)](reports/2018/The_Untold_Story_of_NotPetya_the_Most_Devastating_Cyberattack_in_History_082018.pdf) | 2018/Aug | Wired |
+| [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](reports/2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | 2017/Jun | Wired |
+| [CrashOverride: Analysis of the Threat to Electric Grid Operations](reports/2017/CrashOverride-01.pdf) | 2017/Jun | Dragos |
+| [WIN32/INDUSTROYER A new threat for industrial control systems](reports/2017/Win32_Industroyer.pdf) | 2017/Jun | ESET |
+| [BLACKENERGY & QUEDAGH The convergence of crimeware and APT attacks](reports/2014/blackenergy_whitepaper.pdf) | 2014/Oct | F-Secure |
+
+Others:
+
+- https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html
+- https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/
+- https://www.crowdstrike.com/blog/when-worlds-collide-the-impact-of-cyber-threats-crossing-over-to-the-physical-world/
+- https://longform.org/posts/longform-podcast-372-andy-greenberg ([mirrored](reports/media/Andy_Greenberg_Full_Episode_Edit_1.mp3))
+- https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war
+- https://www.nybooks.com/articles/2019/12/19/drums-of-cyberwar/
+- https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/
+- https://www.wired.com/story/sandworm-android-malware/
+- https://darknetdiaries.com/episode/54/ ([mirrored](reports/media/ADV7741006833.mp3))
+
+### EQGRP vs Shadow Brokers
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](reports/2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | 2018/Dec | TrendMicro |
+| [Equation Group: Questions And Answers](reports/2015/Equation_group_questions_and_answers.pdf) | 2015/Feb | Kaspersky |
+
+### Regin
+
+| Title | Year/Month | Source |
+|----------------|--------|--------|
+| [Equation Group: Questions And Answers](reports/2015/Equation_group_questions_and_answers.pdf) |     2015/Feb | Kaspersky |
+| [Regin: Top-Tier Espionage Tool Enables Stealthy Surveillance](reports/2014/regin-analysis.pdf)     | 2014/Nov | Symantec |
+| [W32/Regin, Stage #1](reports/2014/w32_regin_stage_1.pdf) | 2014/Dec | F-Secure |
+| [W64/Regin, Stage #1](reports/2014/w64_regin_stage_1.pdf) | 2014/Dec | F-Secure |
+
+Others:
+
+- https://theintercept.com/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/
+- https://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance
+- https://www.spiegel.de/international/europe/nsa-spied-on-european-union-offices-a-908590.html
+- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
+- https://web.archive.org/web/20170214165250/http://2014.hack.lu/archive/2014/hacklu-joker-presentation.pdf
+- http://www.m3forum.net/m3forum/archive/index.php/t-498929.html
+- https://medium.com/@botherder/everything-we-know-of-nsa-and-five-eyes-malware-e8eac172d3b5
+- https://www.virustotal.com/gui/file/4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff/detection
+- https://firstlook.org/wp-uploads/sites/1/regin.zip
+
+
 ## References
 
 * [APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
@@ -200,3 +279,4 @@ Other:
 * [APT CyberCriminal Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 * [APT Report Collection](https://github.com/blackorbird/APT_REPORT)
 * [Who's who of cyber threat actors](https://www.fireeye.com/current-threats/apt-groups.html) according to FireEye (2020)
+* https://www.cisecurity.org/solarwinds/

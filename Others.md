@@ -1,86 +1,58 @@
 ## Others
 
-### Stuxnet/Duqu/Flame(r)
+## Significant Cyber Incidents Since 2006
 
-| Title | Year/Month | Source |
-|----------------|--------|--------|
-| [Duqu 2.0: A Comparison To Duqu](reports/2015/duqu2_crysys.pdf) | 2015/Jun | CrySyS Lab |
-| [The Duqu 2.0 Technical Details](reports/2015/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) | 2015/Jun | Kaspersky |
-| [Stuxnet 0.5: The Missing Link](reports/2013/stuxnet_0_5_the_missing_link.pdf) | 2013/Feb | Symantec |
-| [The Miniduke Mystery: Pdf 0-Day Government Spy Assembler 0X29A Micro Backdoor](reports/2013/themysteryofthepdf0-dayassemblermicrobackdoor.pdf) | 2013/Feb | Kaspersky |
-| [Miniduke: Indicators](reports/2013/miniduke_indicators_public.pdf) | 2013/Feb | CrySyS Lab |
-| [Skywiper (A.K.A. Flame A.K.A. Flamer): A Complex Malware For Targeted Attacks](reports/2012/skywiper.pdf) | 2012/Mar | CrySyS Lab |
-| [Have I Got Newsforyou: Analysis Of Flamer C&C Server](reports/2012/w32_flamer_newsforyou.pdf) | 2012/May | Symantec |
-| [W32.Stuxnet Dossier](reports/2011/w32_stuxnet_dossier.pdf) | 2011/Feb | Symantec |
-| [Stuxnet Under the Microscope](reports/2011/Stuxnet_Under_the_Microscope.pdf) | 2011/Apr | ESET |
+[Center for Strategic and International Studies (CSIS) | Washington, D.C.Significant Cyber Incidents Since 2006](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents) [mirror](reports/others/210226_Significant_Cyber_Events.pdf)
 
-Others:
+## Solarwinds
+### IOCs
 
-- https://news.yahoo.com/revealed-how-a-secret-dutch-mole-aided-the-us-israeli-stuxnet-cyber-attack-on-iran-160026018.html
-- https://www.virustotal.com/gui/file/38cdb4dbddf9c9b682d47dcbcd79f61fddf7f237fdfc3ee17bddbac061944e06/detection
-- http://37.156.146.163/PUB/SANS/SANS%20508%20DVD/example-memory-images/
-- https://news.ycombinator.com/item?id=2212922
-- https://github.com/Laurelai/decompile-dump
-- http://laurelai.info/index.php/hbgary-wanted-to-suppress-stuxnet-research/
-- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
-- https://www.wired.com/2015/06/kaspersky-finds-new-nation-state-attack-network/
+- https://zetter.substack.com/p/would-government-monitoring-have
+- [CrowdStrike Malware Analysis of SUNSPOT implant (technical)](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
+- [Symantec Blog on another Solarwinds compromise malware, dubbed Raindrop](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware)
+- [FireEye Initial Analysis](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+- [FireEye GitHub including Yara rules, Snort rules, hashes, and other IOCs](https://github.com/fireeye/sunburst_countermeasures)
+- [Volexity Analysis of Sunburst Kill Chain](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
+- [Cisco Talos Analysis of Supply Chain Compromise with IOCs](https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html)
+- [McAfee Analysis of SunBurst](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/sunburst-malware-and-solarwinds-supply-chain-compromise/)
+- [SolarWinds Security Advisory](https://www.solarwinds.com/securityadvisory)
+- [CloudFlare Analysis with Trend Data](https://blog.cloudflare.com/solarwinds-orion-compromise-trend-data/)
+- [Prevasio Analysis of Sunburst Backdoor](https://blog.prevasio.com/2020/12/sunburst-backdoor-deeper-look-into.html)
+- [Huntress Security SunBurst DLL Locations (list)](https://gist.github.com/KyleHanslovan/0c8a491104cc55d6e4bd9bff7214a99e)
+- [Paste of SunBurst Hashes](https://pastebin.com/J28AzXRi)
+- [Paste of SunBurst DGA Subdomains](https://pastebin.com/6EDgCKxd)
+- [List of Unique DGA SunBurst Subdomains](https://github.com/bambenek/research/blob/main/sunburst/uniq-hostnames.txt)
+- [TrustedSec Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
+- [TrustedSec Incident Response Playbook for Sunburst](https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/)
 
-### Sandworm
+### Resources
 
-| Title | Year/Month | Source |
-|----------------|--------|--------|
-| [The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Attack in History (Sandworm)](reports/2019/The_Untold_Story_of_the_2018_Olympics_Cyberattack_the_Most_Deceptive_Hack_in_History_102019.pdf) | 2019/Oct | Wired |
-| [Here's the Evidence That Links Russia's Most Brazen Cyberattacks (Sandworm)](reports/2019/Evidence_That_Links_Russias_Most_Brazen_Cyberattacks_112019.pdf) | 2019/Nov | Wired |
-| [The Untold Story of NotPetya, the Most Devastating Cyberattack in History (Sandworm)](reports/2018/The_Untold_Story_of_NotPetya_the_Most_Devastating_Cyberattack_in_History_082018.pdf) | 2018/Aug | Wired |
-| [How an Entire Nation Became Russia's Test Lab for Cyberwar (Sandworm)](reports/2017/How_an_Entire_Nation_Became_Russias_Test_Lab_for_Cyberwar_062017.pdf) | 2017/Jun | Wired |
-| [CrashOverride: Analysis of the Threat to Electric Grid Operations](reports/2017/CrashOverride-01.pdf) | 2017/Jun | Dragos |
-| [WIN32/INDUSTROYER A new threat for industrial control systems](reports/2017/Win32_Industroyer.pdf) | 2017/Jun | ESET |
-| [BLACKENERGY & QUEDAGH The convergence of crimeware and APT attacks](reports/2014/blackenergy_whitepaper.pdf) | 2014/Oct | F-Secure |
+- [DHS CISA Guidance on Remediating Networks Affected by the SolarWinds Compromise](https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/guidance-remediating-networks-affected-solarwinds-and-active)
+- [NETRESEC Blog on SolarWinds Backdoor Targeting Process](https://www.netresec.com/?page=Blog&month=2021-02&post=Targeting-Process-for-the-SolarWinds-Backdoor)
+- [FBI, CISA, ODNI, NSA Joint Statement](https://www.cisa.gov/news/2021/01/05/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure)
+- [ZDnet Article on SUNSPOT implant (less technical)](https://www.zdnet.com/google-amp/article/third-malware-strain-discovered-in-solarwinds-supply-chain-attack/)
+- [FireEye Blog on Remediation and Hardening Strategies for Microsoft O365 against UNC2452](https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html)
+- [Direct link to FireEye Whitepaper on Hardening of O365 Environment](https://www.fireeye.com/content/dam/collateral/en/wp-m-unc2452.pdf)
+- [MS- and EI_ISAC Printable Checklist](https://learn.cisecurity.org/ms-isac-ei-isac-checklist)
+- [Qualys - Technical Deep Dive into SolarWinds Breach](https://blog.qualys.com/vulnerabilities-research/2021/01/04/technical-deep-dive-into-solarwinds-breach)
+- [NETRESEC Blog on Finding Targeted SUNBURST Victims with pDNS](https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS)
+- [SolarWinds Advisory Anchor 2](https://www.solarwinds.com/securityadvisory#anchor2)
+- [Carnegie Mellon University Research on SolarWinds Vulnerability](https://kb.cert.org/vuls/id/843464)
+- [CVE-2020-10148](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10148)
+- [Palo Alto SolarStorm Supply-Chain Attack Timeline](https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/)
+- [Palo Alto ATOM for SolarStorm](https://unit42.paloaltonetworks.com/atoms/solarstorm/)
+- [CIS MS-ISAC Advisory 2020-166, “Multiple Vulnerabilities in SolarWinds Orion Could Allow for Arbitrary Code Execution”](https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-SolarWinds-orion-could-allow-for-arbitrary-code-execution_2020-166/)
+- [CISA Alert (AA20-352A), “Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations”](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
+- [FireEye Threat Research, “Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor”](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+- [Microsoft Security Response Center, “Customer Guidance on Recent Nation-State Cyber Attacks”](https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/)
+- [SolarWinds Documentation for Secure Configuration of the Orion Platform](https://documentation.solarwinds.com/en/Success_Center/orionplatform/content/core-secure-configuration.htm)
+- [FireEye GitHub including Yara rules, Snort rules, hashes, and other IOCs](https://github.com/fireeye/sunburst_countermeasures)
 
-Others:
+## 2019
 
-- https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html
-- https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/
-- https://www.crowdstrike.com/blog/when-worlds-collide-the-impact-of-cyber-threats-crossing-over-to-the-physical-world/
-- https://longform.org/posts/longform-podcast-372-andy-greenberg ([mirrored](reports/media/Andy_Greenberg_Full_Episode_Edit_1.mp3))
-- https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war
-- https://www.nybooks.com/articles/2019/12/19/drums-of-cyberwar/
-- https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/
-- https://www.wired.com/story/sandworm-android-malware/
-- https://darknetdiaries.com/episode/54/ ([mirrored](reports/media/ADV7741006833.mp3))
-
-### EQGRP vs Shadow Brokers
-
-| Title | Year/Month | Source |
-|----------------|--------|--------|
-| [Tildeb: Analyzing the 18-year-old Implant from the Shadow Brokers Leak](reports/2018/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf) | 2018/Dec | TrendMicro |
-| [Equation Group: Questions And Answers](reports/2015/Equation_group_questions_and_answers.pdf) | 2015/Feb | Kaspersky |
-
-Others:
-
-- PRIVATE 
-
-### Regin 
-
-| Title | Year/Month | Source |
-|----------------|--------|--------|
-| [Equation Group: Questions And Answers](reports/2015/Equation_group_questions_and_answers.pdf) |     2015/Feb | Kaspersky |
-| [Regin: Top-Tier Espionage Tool Enables Stealthy Surveillance](reports/2014/regin-analysis.pdf)     | 2014/Nov | Symantec |
-| [W32/Regin, Stage #1](reports/2014/w32_regin_stage_1.pdf) | 2014/Dec | F-Secure |
-| [W64/Regin, Stage #1](reports/2014/w64_regin_stage_1.pdf) | 2014/Dec | F-Secure |
-
-Others:
-
-- https://theintercept.com/2014/11/24/secret-regin-malware-belgacom-nsa-gchq/
-- https://www.symantec.com/connect/blogs/regin-top-tier-espionage-tool-enables-stealthy-surveillance
-- https://www.spiegel.de/international/europe/nsa-spied-on-european-union-offices-a-908590.html
-- https://www.wired.com/2015/02/kapersky-discovers-equation-group/
-- https://web.archive.org/web/20170214165250/http://2014.hack.lu/archive/2014/hacklu-joker-presentation.pdf
-- http://www.m3forum.net/m3forum/archive/index.php/t-498929.html
-- https://medium.com/@botherder/everything-we-know-of-nsa-and-five-eyes-malware-e8eac172d3b5
-- https://www.virustotal.com/gui/file/4d6cebe37861ace885aa00046e2769b500084cc79750d2bf8c1e290a1c42aaff/detection
-- https://firstlook.org/wp-uploads/sites/1/regin.zip
-
+[What Israel's Strike on Hamas Hackers Means For Cyberwar](https://www.wired.com/story/israel-hamas-cyberattack-air-strike-cyberwar/)
+[The Future Is Here, and It Features Hackers Getting Bombed](https://foreignpolicy.com/2019/05/06/the-future-is-here-and-it-features-hackers-getting-bombed/)
+[Israel Neutralizes Cyber Attack by Blowing Up A Building With Hackers](https://thehackernews.com/2019/05/israel-hamas-hacker-airstrikes.html)
 
 ### The Mastermind
 
@@ -107,33 +79,11 @@ Others:
 - https://news.bitcoin.com/the-many-facts-pointing-to-paul-le-roux-being-satoshi-nakamoto/
 - https://medium.com/@fbonomi/paul-le-roux-has-nothing-to-do-with-bitcoin-f534890430db
 
-### TrickBot
-
-Others:
-
-- https://www.fastcompany.com/90417865/new-botnet-nabbed-victims-by-sending-30000-sextortion-emails-per-hour
-- https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware
-
-### Lurk / Angler
-
-Others:
-
-- https://www.bankinfosecurity.com/russia-busts-nine-more-lurk-malware-suspects-a-9679
-- https://www.zdnet.com/article/notorious-cyber-crime-gang-behind-global-bank-hacking-spree-returns-with-new-attacks/
-- https://securityaffairs.co/wordpress/67262/cyber-crime/wannacry-lurk-group.html
-- https://labs.sentinelone.com/reversing-rig-exploit-kit-infection-chain-internals-exploits/
-- https://securelist.com/the-hunt-for-lurk/75944/
-
-### Fin
-
-- http://adelmas.com/blog/flokibot.php
-
-
 ### Bezos'
 
 - [Project Cato](reports/2020/88632.pdf)
 - [Analysis of the Evidence of Surveillance of Mr. Bezos](reports/2020/Bezos_SRsSumexFreedexAnnexes.pdf)
-- [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](reports/2019/Lord-of-the-Flies_Redacted_6-25-19.pdf) 
+- [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](reports/2019/Lord-of-the-Flies_Redacted_6-25-19.pdf)
 
 - https://www.nytimes.com/2018/11/14/world/middleeast/saudi-arabia-crown-prince-loyalists.html
 - https://archive.fo/20181030152706/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=1756908
@@ -145,20 +95,16 @@ Others:
 - https://github.com/ddz/whatsapp-media-decrypt
 
 
-### Unsorted 
+### Unsorted
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
 | [Hi-Tech Crime Trends 2019/2020](reports/2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
-| [Kaspersky Security Bulletin: Advanced threat predictions for 2020](reports/2019/KSB2019_APT-predictions-2020_web.pdf) | 2019/Dec | Kaspersky |
-| [ESET Cybersecurity Trends 2020](reports/2019/ESET_Cybersecurity_Trends_2020.pdf) | 2019/Dec | ESET |
 | [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](reports/2019/88676.pdf) | 2019 | SecureD |
-| [CrowdStrike Global Threat Report](reports/2020/2020_CrowdStrike_Report.pdf) | 2020 | CrowdStrike |
 | [Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources](reports/2020/Legal_Considerations_when_Gathering_Online_Cyber_Threat_Intelligence_and_Purchasing_Data_from_Illicit_Sources.pdf) | 2020 | CCIPS |
 | [The 2020 State of Crypto Crime: Everything you need to know about darknet markets, exchange hacks, money laundering and more](reports/2020/THE_2020_STATE_OF_CRYPTO_CRIME.pdf) | 2020 | ChainAnalysis |
 
 - [I Was a Cybercrook for the FBI](reports/200x/69485.pdf)
 - https://blog.google/technology/safety-security/update-state-sponsored-activity/
 - https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
-- https://www.zdnet.com/google-amp/article/google-details-its-fight-against-the-bread-joker-malware-operation/
 
