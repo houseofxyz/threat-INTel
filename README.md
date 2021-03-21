@@ -6,7 +6,7 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 **Note**: You can also find a [page](APT-Groups.md) with an attempt to sort these reports by APT group name, mostly based on the `ThaiCert` [Threat Actor Encyclopedia](reports/2019/88665.pdf) and the [Group](https://attack.mitre.org/groups/) pages of the MITRE ATT&CK team. This is work in progress and you can find it here: [APT-Groups](APT-Groups.md).
 
-Depending on what you are looking for, you may also find this [page](Others.md) useful. Also, check the `References` at the bottom of this page.
+Depending on what you are looking for you may also find this [page](Others.md) useful. Also, check the `References` at the bottom of this page.
 
 ### 2021
 
