@@ -1,5 +1,27 @@
 # 2019
 
+## Air strike against hacking group
+
+- [What Israel's Strike on Hamas Hackers Means For Cyberwar](https://www.wired.com/story/israel-hamas-cyberattack-air-strike-cyberwar/)
+- [The Future Is Here, and It Features Hackers Getting Bombed](https://foreignpolicy.com/2019/05/06/the-future-is-here-and-it-features-hackers-getting-bombed/)
+- [Israel Neutralizes Cyber Attack by Blowing Up A Building With Hackers](https://thehackernews.com/2019/05/israel-hamas-hacker-airstrikes.html)
+
+## Bezos'
+
+- [Project Cato](reports/2020/88632.pdf)
+- [Analysis of the Evidence of Surveillance of Mr. Bezos](reports/2020/Bezos_SRsSumexFreedexAnnexes.pdf)
+- [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](reports/2019/Lord-of-the-Flies_Redacted_6-25-19.pdf)
+- https://www.nytimes.com/2018/11/14/world/middleeast/saudi-arabia-crown-prince-loyalists.html
+- https://archive.fo/20181030152706/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=1756908
+- https://www.bellingcat.com/news/mena/2019/06/26/lord-of-the-flies-an-open-source-investigation-into-saud-al-qahtani/
+- https://www.thedailybeast.com/how-the-saudis-made-jeff-bezos-public-enemy-1
+- https://www.bloomberg.com/news/articles/2018-11-04/saudis-call-for-amazon-boycott-over-anger-at-washington-post
+- https://www.vice.com/en_us/article/v74v34/saudi-arabia-hacked-jeff-bezos-phone-technical-report
+- https://twitter.com/dinodaizovi/status/1221324029841244161
+- https://github.com/ddz/whatsapp-media-decrypt
+
+## Vice
+
 From: https://www.vice.com/amp/en_us/article/j5yyep/the-cybersecurity-stories-we-were-jealous-of-in-2019
 
 ## The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Hack in History
