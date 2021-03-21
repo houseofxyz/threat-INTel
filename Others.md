@@ -84,7 +84,6 @@ Others:
 - [Project Cato](reports/2020/88632.pdf)
 - [Analysis of the Evidence of Surveillance of Mr. Bezos](reports/2020/Bezos_SRsSumexFreedexAnnexes.pdf)
 - [LORD OF THE FLIES: AN OPEN-SOURCE INVESTIGATION INTO SAUD AL-QAHTANI](reports/2019/Lord-of-the-Flies_Redacted_6-25-19.pdf)
-
 - https://www.nytimes.com/2018/11/14/world/middleeast/saudi-arabia-crown-prince-loyalists.html
 - https://archive.fo/20181030152706/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=1756908
 - https://www.bellingcat.com/news/mena/2019/06/26/lord-of-the-flies-an-open-source-investigation-into-saud-al-qahtani/
