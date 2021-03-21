@@ -55,7 +55,11 @@
 - [The Future Is Here, and It Features Hackers Getting Bombed](https://foreignpolicy.com/2019/05/06/the-future-is-here-and-it-features-hackers-getting-bombed/)
 - [Israel Neutralizes Cyber Attack by Blowing Up A Building With Hackers](https://thehackernews.com/2019/05/israel-hamas-hacker-airstrikes.html)
 
-### The Mastermind
+## Geopolitics 
+
+- [Deterrence and Dissuasion in Cyberspace | MIT Press](reports/others/isec_a_00266.pdf) - 2017
+
+## The Mastermind
 
 | Title | Year/Month | Source |
 |----------------|--------|--------|
@@ -80,7 +84,7 @@ Others:
 - https://news.bitcoin.com/the-many-facts-pointing-to-paul-le-roux-being-satoshi-nakamoto/
 - https://medium.com/@fbonomi/paul-le-roux-has-nothing-to-do-with-bitcoin-f534890430db
 
-### Bezos'
+## Bezos'
 
 - [Project Cato](reports/2020/88632.pdf)
 - [Analysis of the Evidence of Surveillance of Mr. Bezos](reports/2020/Bezos_SRsSumexFreedexAnnexes.pdf)
@@ -94,17 +98,11 @@ Others:
 - https://twitter.com/dinodaizovi/status/1221324029841244161
 - https://github.com/ddz/whatsapp-media-decrypt
 
+## Unsorted
 
-### Unsorted
-
-| Title | Year/Month | Source |
-|----------------|--------|--------|
-| [Hi-Tech Crime Trends 2019/2020](reports/2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf) | 2019/Dec | Group IB |
-| [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](reports/2019/88676.pdf) | 2019 | SecureD |
-| [Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources](reports/2020/Legal_Considerations_when_Gathering_Online_Cyber_Threat_Intelligence_and_Purchasing_Data_from_Illicit_Sources.pdf) | 2020 | CCIPS |
-| [The 2020 State of Crypto Crime: Everything you need to know about darknet markets, exchange hacks, money laundering and more](reports/2020/THE_2020_STATE_OF_CRYPTO_CRIME.pdf) | 2020 | ChainAnalysis |
-
+- [Hi-Tech Crime Trends 2019/2020](reports/2019/TECH-CRIME-TRENDS-2019-2020-group-ib.pdf)
+- [The Invisible Digital Threat: Mobile AD Fraud 2019 Report](reports/2019/88676.pdf)
+- [Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources](reports/2020/Legal_Considerations_when_Gathering_Online_Cyber_Threat_Intelligence_and_Purchasing_Data_from_Illicit_Sources.pdf)
+- [The 2020 State of Crypto Crime: Everything you need to know about darknet markets, exchange hacks, money laundering and more](reports/2020/THE_2020_STATE_OF_CRYPTO_CRIME.pdf)
 - [I Was a Cybercrook for the FBI](reports/200x/69485.pdf)
-- https://blog.google/technology/safety-security/update-state-sponsored-activity/
-- https://blog.google/technology/safety-security/threat-analysis-group/protecting-users-government-backed-hacking-and-disinformation/
 
