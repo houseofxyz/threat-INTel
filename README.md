@@ -24,6 +24,13 @@ Depending on what you are looking for you may also find this [page](Others.md) u
 | [FIN8 Returns with Improved BADHATCH Toolkit](reports/2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
 | [SilverFish GroupThreat Actor Report](reports/2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
 | [Insider Trading Threats on Dark Web and Underground Sources](reports/2021/cta-2021-0319.pdf) | Mar | RecordedFuture |
+| [FIN8 Returns with Improved BADHATCH Toolkit](2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
+| [SilverFish Group Threat Actor Report](2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
+| [Academics, AI, and APTsHow Six Advanced Persistent Threat-Connected Chinese Universities are Advancing AI Research](2021/CSET-Academics-AI-and-APTs.pdf) | Mar | CSET |
+| [NAIKON - Traces from a Military Cyber-Espionage Operation](2021/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf) | Apr | BitDefender |
+| [Attributing Attacks Against Crypto Exchanges to LAZARUS - North Korea](2021/CryptoCore-Lazarus-Clearsky.pdf) | May | Clearsky |
+| [Further TTPs associated with SVR cyber actors](2021/Advisory_Further_TTPs_associated_with_SVR_cyber_actors.pdf) | May | NCSC |
+| [Cuba Ransomware Group on a Roll](2021/Cuba_Ransomware_Group_on_a_roll.pdf) | Jun | Profero |
 
 ### 2020
 
@@ -62,6 +69,7 @@ Depending on what you are looking for you may also find this [page](Others.md) u
 | [Shifts in Underground Markets](reports/2020/2_5371064119287874977.pdf) | May | Trend Micro |
 | [From AGENT.BTZ to COMRAT V4. A ten-year journey](reports/2020/2_5219890908375287908.pdf) | May | ESET |
 | [Mobile APT Surveillance Campaigns Targeting Uyghurs](reports/2020/2_5471880419202827949.pdf) | Jun | Lookout |
+| [Invisimole: The hidden part of the story - Unearthing toolset and strategic operations](2020/ESET_InvisiMole.pdf) | Jun | ESET |
 | [The Dark Overlord Cyber Investigation Report](reports/2020/2_5235887904911263740.pdf) | Jul | Data Viper |
 | [Study of the APT attacks on state institutions in Kazakhstan and Kyrgyzstan](reports/2020/2_5246831700624803765.pdf) | Jul | Dr.Web |
 | [The Hacker Infrastructure and Underground Hosting. An overview of the cybercriminal market](reports/2020/2_5249083500438488411.pdf) | Jul | Trend Micro |
