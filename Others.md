@@ -59,8 +59,10 @@
 
 - https://en.wikipedia.org/wiki/List_of_security_hacking_incidents
 
-
 ## Geopolitics
 
 - [Deterrence and Dissuasion in Cyberspace | MIT Press](reports/others/isec_a_00266.pdf) - 2017
 
+## Misc
+
+- [Group-IB Threat Intelligence & Attribution](reports/others/Group-IB_Threat_Intel_and_Attribution_Cookbook.pdf)

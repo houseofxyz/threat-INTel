@@ -24,13 +24,22 @@ Depending on what you are looking for you may also find this [page](Others.md) u
 | [FIN8 Returns with Improved BADHATCH Toolkit](reports/2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
 | [SilverFish GroupThreat Actor Report](reports/2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
 | [Insider Trading Threats on Dark Web and Underground Sources](reports/2021/cta-2021-0319.pdf) | Mar | RecordedFuture |
-| [FIN8 Returns with Improved BADHATCH Toolkit](2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
-| [SilverFish Group Threat Actor Report](2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
-| [Academics, AI, and APTsHow Six Advanced Persistent Threat-Connected Chinese Universities are Advancing AI Research](2021/CSET-Academics-AI-and-APTs.pdf) | Mar | CSET |
-| [NAIKON - Traces from a Military Cyber-Espionage Operation](2021/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf) | Apr | BitDefender |
-| [Attributing Attacks Against Crypto Exchanges to LAZARUS - North Korea](2021/CryptoCore-Lazarus-Clearsky.pdf) | May | Clearsky |
-| [Further TTPs associated with SVR cyber actors](2021/Advisory_Further_TTPs_associated_with_SVR_cyber_actors.pdf) | May | NCSC |
-| [Cuba Ransomware Group on a Roll](2021/Cuba_Ransomware_Group_on_a_roll.pdf) | Jun | Profero |
+| [FIN8 Returns with Improved BADHATCH Toolkit](reports/2021/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf) | Mar | BitDefender |
+| [SilverFish Group Threat Actor Report](reports/2021/SilverFish_TLPWHITE.pdf) | Mar | Prodaft |
+| [Academics, AI, and APTsHow Six Advanced Persistent Threat-Connected Chinese Universities are Advancing AI Research](reports/2021/CSET-Academics-AI-and-APTs.pdf) | Mar | CSET |
+| [NAIKON - Traces from a Military Cyber-Espionage Operation](reports/2021/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf) | Apr | BitDefender |
+| [Attributing Attacks Against Crypto Exchanges to LAZARUS - North Korea](reports/2021/CryptoCore-Lazarus-Clearsky.pdf) | May | Clearsky |
+| [Further TTPs associated with SVR cyber actors](reports/2021/Advisory_Further_TTPs_associated_with_SVR_cyber_actors.pdf) | May | NCSC |
+| [Cuba Ransomware Group on a Roll](reports/2021/Cuba_Ransomware_Group_on_a_roll.pdf) | Jun | Profero |
+| [Tracking the Activities of Team TNT: A closer look at a cloud-focused malicious actor group](reports/2021/wp-tracking-the-activities-of-teamTNT.pdf) | Jul | Trend Micro |
+| [Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China's MSS Hainan State Security Department](reports/2021/CSA_TTPs-of-Indicted-APT40-Actors-Associated-with-China-MSS-Hainan-State-Security-Department.pdf) | Jul | CISA |
+| [Shadowpad: A masterpiece of privately sold malware in chinese espionage](reports/2021/Shadowpad.pdf) | Aug | Sentinel Labs |
+| [New Iranian Espionage Campaign by Siamesekitten - Lyceum](reports/2021/new_iranian_campaign_by_Siamesekitten.pdf) | Aug | ClearSky |
+| [TG1021: Praying Mantis](reports/2021/TG1021_-_Praying_Mantis_Threat_Actor.pdf) | Aug | Sygnia |
+| [Earth Baku: An APT Group Targeting Indo-Pacifc Countries with New Stealth Loaders and Backdoor](reports/2021/wp-earth-baku-an-apt-group-targeting-indo-pacific-countries.pdf) | Aug | Trend Micro |
+| [FIN8 Threat Actor Goes Agile with New Sardonic Backdoor](reports/2021/Bitdefender-PR-Whitepaper-FIN8-creat5619-en-EN.pdf) | Aug | BitDefender |
+| [Dark Covenant: Connections Between the Russian State and Criminal Actors](reports/2021/cta-2021-0909.pdf) | Sep | RecordedFuture |
+| [GhostEmperor's infection chain and post-exploitation toolset: technical details](reports/2021/GhostEmperor_technical-details_PDF_eng.pdf) | Sep | Kaspersky |
 
 ### 2020
 
