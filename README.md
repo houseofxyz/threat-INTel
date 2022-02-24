@@ -8,6 +8,16 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Depending on what you are looking for you may also find this [page](Others.md) useful. Also, check the `References` at the bottom of this page.
 
+
+### 2022
+
+| Title | Month | Source |
+|----------------|--------|--------|
+| [2021 Adversary Infrastructure Report](reports/2022/2021_Adversary_Infrastructure_Report.pdf) | Jan | RecordedFuture |
+| [Crowdstrike 2022 Global Threat Report](reports/2022/CS_2022_Global_Threat_Report.pdf) | Feb | Crowdstrike |
+| [Bvp47 Top-tier Backdoor of US NSA Equation Group](reports/2022/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf) | Feb | Pangu Lab |
+| [Malware Analysis Report Cyclops Blink](reports/2022/Cyclops-Blink-Malware-Analysis-Report.pdf) | Feb | NCSC |
+
 ### 2021
 
 | Title | Month | Source |
@@ -329,6 +339,7 @@ Depending on what you are looking for you may also find this [page](Others.md) u
 | [Wave your false flags! Deception tactics muddying attribution in targeted attacks](reports/2016/Kaspersky_Wave-your-false-flags.pdf) | Oct | Kaspersky |
 | [When The Lights Went Out: Ukraine Cybersecurity Threat Briefing](reports/2016/BoozAllen_ukraine-report-when-the-lights-went-out.pdf) | Nov | BAH |
 | [Cobalt Logical Attacks on ATMs](reports/2016/Group-IB_Cobalt.pdf) | Nov | Group IB |
+| [From Equation to Equations - Revealing the multi-platform operational capability of Equation Group](reports/2016/FROM_EQUATION_TO_EQUATIONS.pdf) | Nov | Antiy CERT |
 | [PROMETHIUM and NEODYMIUM: Parallel zero-day attacks targeting individuals in Europe](reports/2016/Microsoft_SIR-Vol21-PROMETHIUM-NEODYMIUM-Updated.pdf) | Dec | Microsoft |
 | [Use of Fancy Bear Android Malware tracking of Ukrainian Artillery Units](reports/2016/Crowdstrike_FancyBearTracksUkrainianArtillery.pdf) | Dec | Crowdstrike |
 | [GRIZZLY STEPPE - Russian Malicious Cyber Activity](reports/2016/USCERT_GRIZZLY_STEPPE.pdf) | Dec | FBI |
