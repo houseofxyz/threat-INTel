@@ -17,6 +17,12 @@ Depending on what you are looking for you may also find this [page](Others.md) u
 | [Crowdstrike 2022 Global Threat Report](reports/2022/CS_2022_Global_Threat_Report.pdf) | Feb | Crowdstrike |
 | [Bvp47 Top-tier Backdoor of US NSA Equation Group](reports/2022/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf) | Feb | Pangu Lab |
 | [Malware Analysis Report Cyclops Blink](reports/2022/Cyclops-Blink-Malware-Analysis-Report.pdf) | Feb | NCSC |
+| [CONTI Modus Operndi and Bitcoin Tracking](reports/2022/Conti-Ransomware.pdf) | Feb | ClearSky |
+| [Void Balaur Tracking a Cybermercenary’s Activities](reports/2022/wp-void-balaur-tracking-a-cybermercenarys-activities.pdf) | Mar | Trend Micro |
+| [Analysis of LAPSUS$ Intrusion Set](reports/2022/INTRINSEC-LAPSUS-Intrusion-Set-20220324.pdf) | Mar | Intrinsec |
+| [Under the hood of Wslink’s multilayered virtual machine](reports/2022/eset_wsliknkvm.pdf) | Mar | ESET |
+| [FBI Internet Crime Report 2021](reports/2022/2021_IC3Report.pdf) | Mar | FBI |
+| [An Empirically Comparative Analysis of Ransomware Binaries](reports/2022/an-empirically-comparative-analysis-of-ransomware-binaries.pdf) | Mar | Splunk |
 
 ### 2021
 
